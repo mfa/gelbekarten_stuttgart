@@ -14,7 +14,7 @@ jobs:
       uses: actions/checkout@v2
     - name: Fetch latest data
       run: |-
-        curl https://service.stuttgart.de/lhs-services/stoerung/ | > incidents.html
+        curl https://service.stuttgart.de/lhs-services/stoerung/ > incidents.html
         python main.py
     - name: Commit and push if it changed
       run: |-
