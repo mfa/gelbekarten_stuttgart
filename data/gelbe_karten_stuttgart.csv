@@ -163,3 +163,5 @@ first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,categ
 2021-01-07T20:37:36,2021-01-07,4,20,Straßenbeleuchtung,In der Nähe von Mercedesstraße 124/6,48.785116649599,9.2329736343736
 2021-01-08T09:45:37,2021-01-08,5,9,Ampel,In der Nähe von Otto-Hirsch-Brücken 21,48.760619887605,9.2569686762188
 2021-01-08T09:45:37,2021-01-08,5,9,Wilder Müll,Amundsenstraße 38,48.844693527899,9.1532261531094
+2021-01-08T10:47:33,2021-01-08,5,10,Verkehrszeichen,Seyfferstraße 52,48.771783621524,9.153453160527
+2021-01-08T10:47:33,2021-01-08,5,10,Radweg - Verschmutzung,In der Nähe von Talstraße 207,48.791797146217,9.2203801207162
