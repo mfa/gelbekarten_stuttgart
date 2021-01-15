@@ -303,3 +303,7 @@ first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,categ
 2021-01-15T13:02:00,2021-01-15,5,13,Sonstiges,In der Nähe von Jägerstraße 12,48.786111619229,9.1796298523913
 2021-01-15T13:02:00,2021-01-15,5,13,Gehweg - Verschmutzung,In der Nähe von Rosmarinweg 84,48.8173161,9.2462635
 2021-01-15T13:02:00,2021-01-15,5,13,Sonstiges,In der Nähe von Rosmarinweg 84,48.8173161,9.2462635
+2021-01-15T14:04:25,2021-01-15,5,14,Ampel,Scharnhauser Straße 14,48.702424591755,9.2154236780959
+2021-01-15T14:04:25,2021-01-15,5,14,Straßenbeleuchtung,Sontheimer Straße 12,48.831633761772,9.1857803080172
+2021-01-15T14:04:25,2021-01-15,5,14,Wilder Müll,In der Nähe von Urbanstraße 20,48.777106760584,9.1860301495272
+2021-01-15T14:04:25,2021-01-15,5,14,Ampel,In der Nähe von Waiblinger Straße 19,48.803563690186,9.2192809235283
