@@ -716,3 +716,5 @@ first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,categ
 2021-01-24T10:00:30,2021-01-24,7,10,SSB Haltestelle,In der Nähe von Wildparkstraße 105/1,48.777702850688,9.0904013039671
 2021-01-24T13:01:30,2021-01-24,7,13,Wilder Müll,In der Nähe von Plieninger Straße 107,48.724709302173,9.1619851932615
 2021-01-24T14:02:07,2021-01-24,7,14,Ampel,In der Nähe von Freihofstraße 10,48.848362131478,9.1560450587348
+2021-01-24T14:50:58,2021-01-24,7,14,Gehweg - Verschmutzung,In der Nähe von Gutenbergstraße 91,48.770704890489,9.1554133458148
+2021-01-24T14:50:58,2021-01-24,7,14,Verkehrszeichen,"In der Nähe von Bopseräcker, Gew. 28/1",48.734647713466,9.1701358336364
