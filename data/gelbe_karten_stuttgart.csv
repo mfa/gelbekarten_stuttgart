@@ -1482,3 +1482,7 @@ first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,categ
 2021-02-09T12:34:23,2021-02-09,2,12,Verkehrszeichen,In der Nähe von Kleinhohenheimer Straße 23,48.743147730435,9.2098690859212
 2021-02-09T12:34:23,2021-02-09,2,12,Ampel,In der Nähe von Möwenweg 28,48.835187447916,9.2201181233433
 2021-02-09T12:34:23,2021-02-09,2,12,Verkehrszeichen,In der Nähe von Friedhofstraße 27A,48.792903347723,9.1861643335414
+2021-02-09T13:28:15,2021-02-09,2,13,Verkehrszeichen,In der Nähe von Ditzinger Straße 83,48.815426727847,9.1019582750811
+2021-02-09T13:28:15,2021-02-09,2,13,Verkehrszeichen,In der Nähe von Schirmerstraße 35,48.845602858687,9.2347518419532
+2021-02-09T13:28:15,2021-02-09,2,13,Sonstiges,In der Nähe von Hauptbahnhof (Arnulf-Klett-Platz),48.784572332505,9.1819961071687
+2021-02-09T13:28:15,2021-02-09,2,13,SSB Haltestelle,Stuttgarter Straße 165,48.810120784184,9.1503459962633
