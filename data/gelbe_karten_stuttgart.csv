@@ -5340,3 +5340,7 @@ first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,categ
 2021-04-21T04:37:56,2021-04-21,3,4,Straße - Verschmutzung,Rötestraße 20,48.769890834597,9.1567529702509
 2021-04-21T05:33:26,2021-04-21,3,5,Radweg - Scherben,In der Nähe von Hirschsprungallee 12,48.827342376155,9.1519707860582
 2021-04-21T05:33:26,2021-04-21,3,5,Wilder Müll,Nachtigallenweg 24,48.755354628754,9.1390414948001
+2021-04-21T06:36:00,2021-04-21,3,6,Gehweg - Verschmutzung,In der Nähe von Kaffeewasserbrunnen (Friedrich-Ebert-Straße / Birkenwaldstraße),48.799337401274,9.1756894274058
+2021-04-21T06:36:00,2021-04-21,3,6,Wilder Müll,In der Nähe von Gerätespielfläche (Kausler-/ Lammackerweg),48.725030878816,9.1393053615498
+2021-04-21T06:36:00,2021-04-21,3,6,Kanaldeckel,In der Nähe von Heinrich-Baumann-Straße 25B,48.790011953099,9.2004536921003
+2021-04-21T06:36:00,2021-04-21,3,6,Straßeneinlauf - verstopft,Rosenbergstrasse 40,48.780656024773,9.1622292196333
