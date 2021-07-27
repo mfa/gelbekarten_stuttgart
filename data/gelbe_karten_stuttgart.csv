@@ -10610,3 +10610,7 @@ first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,categ
 2021-07-27T18:31:08,2021-07-27,2,18,Sonstiges,In der Nähe von Stresemannstraße 38,48.804240143486,9.1749466371977
 2021-07-27T18:31:08,2021-07-27,2,18,Verkehrszeichen,In der Nähe von Haltestelle der Fahrbibliothek (Florentiner Straße (Einfahrt Wohnstift Augustinum)),48.739558018715,9.2145452646495
 2021-07-27T18:31:08,2021-07-27,2,18,Wilder Müll,In der Nähe von Altenburger Steige 24,48.811521620075,9.2099542736332
+2021-07-27T19:18:22,2021-07-27,2,19,Ampel,In der Nähe von Augsburger Straße 740,48.756740465812,9.2718601229249
+2021-07-27T19:18:22,2021-07-27,2,19,Radweg - Schäden,In der Nähe von Informationszentrum Stadtentwässerung (Am Neckartor),48.786221894381,9.1893822861833
+2021-07-27T19:18:22,2021-07-27,2,19,Straßeneinlauf - verstopft,Plettenbergstraße 3,48.778959069242,9.2201733310477
+2021-07-27T19:18:22,2021-07-27,2,19,Wilder Müll,Baumannweg 16,48.809413767277,9.2395302631624
