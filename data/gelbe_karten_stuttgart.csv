@@ -17379,3 +17379,7 @@ first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,categ
 2021-12-14T18:30:04,2021-12-14,2,18,Straßenbeleuchtung,Kreuzstraße 4,48.733779359119,9.1078243359924
 2021-12-14T21:21:08,2021-12-14,2,21,Gehweg - Verschmutzung,In der Nähe von Unter dem Birkenkopf 6,48.770862226528,9.1401499933447
 2021-12-15T07:24:10,2021-12-15,3,7,Sonstiges,In der Nähe von Jagststraße 10,48.820215667318,9.2251222767877
+2021-12-15T08:29:59,2021-12-15,3,8,Wilder Müll,In der Nähe von Maximilianstraße 22,48.794524980936,9.2547921893024
+2021-12-15T08:29:59,2021-12-15,3,8,Straße - Verschmutzung,Burgherrenstraße 42,48.802639979818,9.1574813034334
+2021-12-15T08:29:59,2021-12-15,3,8,Sonstiges,In der Nähe von Skulptur Der Mönch von Münster (Jagststraße / Schussengasse),48.819936795058,9.2244314916222
+2021-12-15T08:29:59,2021-12-15,3,8,Gehweg - Verschmutzung,In der Nähe von Robert-Koch-Straße 23,48.727700106109,9.1105024834389
