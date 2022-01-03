@@ -18148,3 +18148,8 @@ first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,categ
 2022-01-03T01:21:29,2022-01-03,1,1,Verkehrszeichen,Am Kräherwald 291,48.776534072644,9.1371546695693
 2022-01-03T02:43:50,2022-01-03,1,2,Gehweg - Verschmutzung,In der Nähe von Schloßbergstraße 23,48.744374239356,9.1356320201386
 2022-01-03T03:27:17,2022-01-03,1,3,Verkehrszeichen,In der Nähe von Neue Brücke 10,48.775018944314,9.1761049920492
+2022-01-03T04:35:06,2022-01-03,1,4,Straßeneinlauf - verstopft,Wildermuthweg 16,48.770079216141,9.1358444667149
+2022-01-03T04:35:06,2022-01-03,1,4,Schlagloch,Außerhalb Stuttgarts,48.742056697177,9.1945425237399
+2022-01-03T04:35:06,2022-01-03,1,4,SSB Haltestelle,In der Nähe von Kirchheimer Straße 113/1,48.741613588698,9.2182138319153
+2022-01-03T04:35:06,2022-01-03,1,4,SSB Haltestelle,In der Nähe von Kirchheimer Straße 63,48.744412114995,9.2130996311414
+2022-01-03T04:35:06,2022-01-03,1,4,Wilder Müll,In der Nähe von Wiesenäckerstraße 18/1,48.736917772771,9.2188683151814
