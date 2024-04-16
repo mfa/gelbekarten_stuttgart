@@ -25,9 +25,7 @@ def parse(contents):
 def load_previous_data():
     filename = Path(f"data/{today().year}/{str(today())}.csv")
     if filename.exists():
-        reader = csv.DictReader(open(filename))
-        for row in reader:
-            yield row
+        yield from csv.DictReader(open(filename))
 
 
 def merge(previous_incidents, incidents):
