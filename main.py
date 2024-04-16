@@ -16,9 +16,8 @@ def parse(contents):
 
 
 def load_previous_data(filename="data/gelbe_karten_stuttgart.csv"):
-    reader = csv.DictReader(open(filename))
-    for row in reader:
-        yield row
+    with open(filename) as f:
+        yield from csv.DictReader(f)
 
 
 def merge(previous_incidents, incidents):
