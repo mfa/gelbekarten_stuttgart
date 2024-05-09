@@ -1,7 +1,12 @@
 import csv
 import datetime
-
+from functools import cache
 from bs4 import BeautifulSoup
+from pathlib import Path
+
+@cache
+def today():
+    return str(datetime.datetime.today().date())
 
 
 def parse(contents):
@@ -15,10 +20,12 @@ def parse(contents):
         }
 
 
-def load_previous_data(filename="data/gelbe_karten_stuttgart.csv"):
-    reader = csv.DictReader(open(filename))
-    for row in reader:
-        yield row
+def load_previous_data():
+    filename = Path(f"data/{today()}.csv")
+    if filename.exists():
+        reader = csv.DictReader(open(filename))
+        for row in reader:
+            yield row
 
 
 def merge(previous_incidents, incidents):
@@ -43,7 +50,7 @@ def gen_datetime_obj(freeze=None):
 
 
 def write_data(previous_incidents, new_incidents, datetime_obj):
-    with open("data/gelbe_karten_stuttgart.csv", "w") as csvfile:
+    with open(f"data/{today()}.csv", "w") as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=previous_incidents[0].keys())
         writer.writeheader()
         for incident in previous_incidents:
