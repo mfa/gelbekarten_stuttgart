@@ -4,23 +4,21 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    - cron:  '0 * * * *'
+    - cron:  '11 * * * *'
 
 jobs:
   scheduled:
     runs-on: ubuntu-latest
     steps:
-      - name: Check out this repo
-        uses: actions/checkout@v2
-      - name: Install Python 3
-        uses: actions/setup-python@v1
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
         with:
-          python-version: 3.8
+          python-version: 3.11
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-      - name: Fetch latest data
+      - name: Fetch latest data and calculate change
         run: |-
           curl https://service.stuttgart.de/lhs-services/stoerung/ > incidents.html
           python main.py
