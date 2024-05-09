@@ -1,12 +1,14 @@
 import csv
 import datetime
 from functools import cache
-from bs4 import BeautifulSoup
 from pathlib import Path
+
+from bs4 import BeautifulSoup
+
 
 @cache
 def today():
-    return str(datetime.datetime.today().date())
+    return datetime.datetime.today().date()
 
 
 def parse(contents):
@@ -21,7 +23,7 @@ def parse(contents):
 
 
 def load_previous_data():
-    filename = Path(f"data/{today()}.csv")
+    filename = Path(f"data/{today().year}/{str(today())}.csv")
     if filename.exists():
         reader = csv.DictReader(open(filename))
         for row in reader:
@@ -50,8 +52,22 @@ def gen_datetime_obj(freeze=None):
 
 
 def write_data(previous_incidents, new_incidents, datetime_obj):
-    with open(f"data/{today()}.csv", "w") as csvfile:
-        writer = csv.DictWriter(csvfile, fieldnames=previous_incidents[0].keys())
+    filename = f"data/{today().year}/{str(today())}.csv"
+    Path(filename).parent.mkdir(exist_ok=True)
+    with open(filename, "w") as csvfile:
+        writer = csv.DictWriter(
+            csvfile,
+            fieldnames=[
+                "first_seen_at_timestamp",
+                "first_seen_date",
+                "first_seen_weekday",
+                "first_seen_hour",
+                "category",
+                "location",
+                "lat",
+                "lon",
+            ],
+        )
         writer.writeheader()
         for incident in previous_incidents:
             writer.writerow(incident)
