@@ -40,3 +40,6 @@ first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,categ
 2024-05-10T00:24:55,2024-05-10,5,0,Ampel,In der Nähe von Kohlerstraße 1,48.7367253,9.214527
 2024-05-10T00:24:55,2024-05-10,5,0,Straße - Schäden,Paradiesstraße 1,48.732112467645,9.1143689023406
 2024-05-10T05:14:48,2024-05-10,5,5,Straße - Verschmutzung,In der Nähe von Kochelseeweg 33,48.830759876659,9.2188889777546
+2024-05-10T06:15:50,2024-05-10,5,6,Gehweg - Schäden,Mühlhäuser Straße 303,48.835486801671,9.2189332683811
+2024-05-10T06:15:50,2024-05-10,5,6,Sonstiges,Rudolfstraße 26,48.794770491431,9.2096877245938
+2024-05-10T06:15:50,2024-05-10,5,6,Sonstiges,Mühlhäuser Straße 301,48.834713553353,9.2187254952222
