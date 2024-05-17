@@ -1,0 +1,41 @@
+first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,category,location,lat,lon
+2024-05-17T00:25:22,2024-05-17,5,0,Gefahrenstelle,In der Nähe von Haus der Berufsgenossenschaft (Vollmoellerstraße 11),48.727343972605,9.1097641032429
+2024-05-17T00:25:22,2024-05-17,5,0,Sonstiges,In der Nähe von Gerätespielfläche (Döffinger Weg),48.740931107073,9.1053572023283
+2024-05-17T00:25:22,2024-05-17,5,0,Wilder Müll,In der Nähe von Gunterstraße 21/1,48.806507618185,9.176379130038
+2024-05-17T00:25:22,2024-05-17,5,0,Straße - Verschmutzung,Scheffelstraße 18,48.774256392319,9.1480554067914
+2024-05-17T00:25:22,2024-05-17,5,0,Sonstiges,Möhringer Straße 18,48.763106794068,9.1639842613529
+2024-05-17T00:25:22,2024-05-17,5,0,Wilder Müll,Neue Weinsteige 2,48.766773812842,9.1783531886094
+2024-05-17T00:25:22,2024-05-17,5,0,Sonstiges,Arnulf-Klett-Platz 3,48.782954027615,9.1806294143609
+2024-05-17T00:25:22,2024-05-17,5,0,SSB Haltestelle,Bolzstraße 7,48.779954234824,9.1775014835042
+2024-05-17T00:25:22,2024-05-17,5,0,Verkehrszeichen,In der Nähe von Möhringer Landstraße 2,48.729925258452,9.1128968362941
+2024-05-17T00:25:22,2024-05-17,5,0,Gehweg - Verschmutzung,In der Nähe von Lauftreff U14-Haltestelle May-Eyth-See (Seeblickweg),48.832648131275,9.216539332975
+2024-05-17T00:25:22,2024-05-17,5,0,Gefahrenstelle,Sieben Morgen 62,48.852371850587,9.1586184283406
+2024-05-17T00:25:22,2024-05-17,5,0,Sonstiges,In der Nähe von Lauftreff U14-Haltestelle May-Eyth-See (Seeblickweg),48.832625983941,9.2158553420436
+2024-05-17T00:25:22,2024-05-17,5,0,Straßeneinlauf - verstopft,In der Nähe von Grillplatz am Max-Eyth-See (Am Max-Eyth-See),48.831453408109,9.211885776479
+2024-05-17T00:25:22,2024-05-17,5,0,Gehweg - Schäden,In der Nähe von Wasserspiele Hofen (Max-Eyth-See / Mühlhäuser Straße),48.834048238981,9.2120838712708
+2024-05-17T00:25:22,2024-05-17,5,0,Wilder Müll,Lehmfeldstraße 27,48.819928093069,9.2394497152009
+2024-05-17T00:25:22,2024-05-17,5,0,Straße - Schäden,In der Nähe von Engelbergstraße 41,48.802864412727,9.0976489173157
+2024-05-17T00:25:22,2024-05-17,5,0,Wilder Müll,Lehmfeldstraße 19,48.819284925145,9.239577625044
+2024-05-17T00:25:22,2024-05-17,5,0,Wilder Müll,Schmidener Straße 45,48.810204317085,9.221029659391
+2024-05-17T00:25:22,2024-05-17,5,0,Wilder Müll,Ludwig-Pfau-Straße 15,48.781951083439,9.1591995485051
+2024-05-17T00:25:22,2024-05-17,5,0,Gefahrenstelle,In der Nähe von Gerätespielfläche (Freibad-/ Krehlstraße),48.7277469,9.1026418
+2024-05-17T00:25:22,2024-05-17,5,0,Sonstiges,Martha-Schmidtmann-Straße 11,48.808668581203,9.2334169809043
+2024-05-17T00:25:22,2024-05-17,5,0,Sonstiges,Lotterbergstraße 30,48.824852,9.1009684
+2024-05-17T00:25:22,2024-05-17,5,0,Sonstiges,Frauenstegstraße 50,48.838099330579,9.1622665013466
+2024-05-17T00:25:22,2024-05-17,5,0,Verkehrszeichen,Kappelbergstraße 35,48.784683760166,9.2528681871
+2024-05-17T00:25:22,2024-05-17,5,0,Treppe,In der Nähe von Josefstraße 15,48.750263135945,9.168088761969
+2024-05-17T00:25:22,2024-05-17,5,0,Wilder Müll,"In der Nähe von Rotwildpark, Gew. 11",48.755998649552,9.1058400282273
+2024-05-17T00:25:22,2024-05-17,5,0,Gefahrenstelle,Langenburger Straße 58,48.826774906825,9.1795333785862
+2024-05-17T00:25:22,2024-05-17,5,0,Poller,In der Nähe von Kienbachstraße 40,48.801507480576,9.2377669999939
+2024-05-17T00:25:22,2024-05-17,5,0,Wilder Müll,Rüderner Straße 5,48.76264637097,9.2699708731409
+2024-05-17T00:25:22,2024-05-17,5,0,Gefahrenstelle,Schurwaldstraße 42,48.781842773691,9.2157178313378
+2024-05-17T00:25:22,2024-05-17,5,0,Radweg - Schäden,In der Nähe von Toilettenanlage (Charlottenplatz 17/1),48.7755572,9.1821279
+2024-05-17T00:25:22,2024-05-17,5,0,Schlagloch,In der Nähe von OMV Tankstelle Flughafenstraße (Flughafenstraße 70),48.6941179906,9.1999798525411
+2024-05-17T00:25:22,2024-05-17,5,0,Wilder Müll,In der Nähe von Löwentorstraße 39,48.806430893705,9.1870346575932
+2024-05-17T00:25:22,2024-05-17,5,0,Wilder Müll,In der Nähe von Köstlinstraße 185,48.801451147113,9.1106382925338
+2024-05-17T00:25:22,2024-05-17,5,0,Straßeneinlauf - verstopft,In der Nähe von Christophbrunnen (Nachtigallenweg / Heidenklinge),48.756739411224,9.133203412215
+2024-05-17T00:25:22,2024-05-17,5,0,Wilder Müll,In der Nähe von Augsburger Straße 371,48.77980539641,9.2519835391582
+2024-05-17T00:25:22,2024-05-17,5,0,Sonstiges,Gäublick 14,48.81748641031,9.1121654779852
+2024-05-17T00:25:22,2024-05-17,5,0,Verkehrszeichen,In der Nähe von Danneckerstraße 27B,48.770500355289,9.184092980438
+2024-05-17T00:25:22,2024-05-17,5,0,Sonstiges,Keplerstraße 32,48.782803951454,9.1667763662584
+2024-05-17T00:25:22,2024-05-17,5,0,Straßenbeleuchtung,Birkheckenstraße 122,48.732520592643,9.203336264441
