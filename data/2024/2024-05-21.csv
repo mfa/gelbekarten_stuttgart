@@ -1,0 +1,41 @@
+first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,category,location,lat,lon
+2024-05-21T00:25:37,2024-05-21,2,0,Wilder Müll,Hohewartstraße 195,48.802830681346,9.1382798678229
+2024-05-21T00:25:37,2024-05-21,2,0,Straße - Verschmutzung,Breitscheidstraße 31,48.778487161207,9.165912766538
+2024-05-21T00:25:37,2024-05-21,2,0,Wilder Müll,In der Nähe von Lehmfeldstraße 18,48.820372309232,9.2395161082902
+2024-05-21T00:25:37,2024-05-21,2,0,Kanaldeckel,Leuschnerstraße 53,48.775720320795,9.1631678505038
+2024-05-21T00:25:37,2024-05-21,2,0,Sonstiges,In der Nähe von Böblinger Straße 258,48.755626156838,9.1405040196281
+2024-05-21T00:25:37,2024-05-21,2,0,Straßenbeleuchtung,Ruggerstraße 6,48.7409842,9.1330316
+2024-05-21T00:25:37,2024-05-21,2,0,Sonstiges,Rosenbergstraße 23,48.78050929629,9.1626790393865
+2024-05-21T00:25:37,2024-05-21,2,0,Straße - Verschmutzung,Wertweg 1,48.839078654171,9.2314731467564
+2024-05-21T00:25:37,2024-05-21,2,0,Gehweg - Verschmutzung,In der Nähe von Altkleider-Container (Möwenweg / Seeblickweg),48.832955654118,9.2173789899533
+2024-05-21T00:25:37,2024-05-21,2,0,Gehweg - Schäden,In der Nähe von Lauftreff U14-Haltestelle May-Eyth-See (Seeblickweg),48.833235881164,9.216272165321
+2024-05-21T00:25:37,2024-05-21,2,0,Sonstiges,In der Nähe von Rettungszentrum DLRG (Mühlhäuser Straße 319),48.837444957078,9.2184512616959
+2024-05-21T00:25:37,2024-05-21,2,0,Radweg - Scherben,In der Nähe von Hahnweilerstraße 72,48.8375681,9.2311091
+2024-05-21T00:25:37,2024-05-21,2,0,Sonstiges,In der Nähe von Schwieberdinger Straße 57G,48.83100861845,9.1605410484375
+2024-05-21T00:25:37,2024-05-21,2,0,Sonstiges,In der Nähe von Rotenwaldstraße 116,48.770585196944,9.1429035638389
+2024-05-21T00:25:37,2024-05-21,2,0,Gefahrenstelle,In der Nähe von Brunnen Falsche Klinge (Tiefenbachtal Silberwald),48.755881106526,9.2050359863874
+2024-05-21T00:25:37,2024-05-21,2,0,Brunnen / Gewässer,In der Nähe von Freihofstraße 87/1,48.842803211847,9.1590298305809
+2024-05-21T00:25:37,2024-05-21,2,0,Gehweg - Verschmutzung,In der Nähe von Schneideräckerstraße 2/1,48.8350117,9.2387233
+2024-05-21T00:25:37,2024-05-21,2,0,Gehweg - Verschmutzung,In der Nähe von Breitscheidstraße 10,48.778856889768,9.1672942100993
+2024-05-21T00:25:37,2024-05-21,2,0,Wilder Müll,In der Nähe von Alexanderstraße 21A,48.775440076382,9.1897739491815
+2024-05-21T00:25:37,2024-05-21,2,0,Sonstiges,In der Nähe von Freudentaler Straße 33,48.850602946443,9.1608364985115
+2024-05-21T00:25:37,2024-05-21,2,0,Gehweg - Schäden,"In der Nähe von Im Ried, Gew. 1",48.736887275433,9.1458127516659
+2024-05-21T00:25:37,2024-05-21,2,0,Straße - Schäden,Liebigstraße 71,48.757525458105,9.1603060744329
+2024-05-21T00:25:37,2024-05-21,2,0,Wilder Müll,Gottfried-Keller-Straße 20,48.834810374708,9.1597348957432
+2024-05-21T00:25:37,2024-05-21,2,0,Gefahrenstelle,In der Nähe von Spielfläche Am Schlosspark (Schlosspark Mühlhausen),48.8433178133,9.229330099753
+2024-05-21T00:25:37,2024-05-21,2,0,Gehweg - Verschmutzung,Senefelderstraße 6B,48.770626356134,9.1647436629115
+2024-05-21T00:25:37,2024-05-21,2,0,Brunnen / Gewässer,Pfarrstraße 25,48.772992259283,9.1826760369992
+2024-05-21T00:25:37,2024-05-21,2,0,Sonstiges,James-F.-Byrnes-Straße 37,48.817833242707,9.190576404129
+2024-05-21T00:25:37,2024-05-21,2,0,Straße - Schäden,Hanfländerstraße 31,48.743683090937,9.1297249233744
+2024-05-21T00:25:37,2024-05-21,2,0,SSB Haltestelle,In der Nähe von Dattelweg 37B,48.739473658688,9.2120631968584
+2024-05-21T00:25:37,2024-05-21,2,0,Wilder Müll,Illerstraße 17,48.821515612584,9.2239130466724
+2024-05-21T00:25:37,2024-05-21,2,0,Schlagloch,Alexanderstraße 155,48.766539341893,9.1792484634806
+2024-05-21T00:25:37,2024-05-21,2,0,Gehweg - Verschmutzung,"In der Nähe von Berg, Gew. 1",48.77064264384,9.2391609773126
+2024-05-21T00:25:37,2024-05-21,2,0,Wilder Müll,Eckartstraße 20,48.79532366073,9.1916485084514
+2024-05-21T00:25:37,2024-05-21,2,0,Gefahrenstelle,Kronenstraße 15,48.782435362149,9.1786400910989
+2024-05-21T00:25:37,2024-05-21,2,0,Ampel,In der Nähe von Unterer Brühl 2,48.737447941996,9.1276863244411
+2024-05-21T00:25:37,2024-05-21,2,0,Gehweg - Schäden,Markelsheimer Straße 90,48.829422563817,9.1834260985048
+2024-05-21T00:25:37,2024-05-21,2,0,Gehweg - Schäden,In der Nähe von Aalstraße 2,48.84673929214,9.2207696270457
+2024-05-21T00:25:37,2024-05-21,2,0,Straßeneinlauf - verstopft,In der Nähe von Bächlenweg 50,48.759198334582,9.2461357704314
+2024-05-21T00:25:37,2024-05-21,2,0,Radweg - Verschmutzung,In der Nähe von Informationszentrum Stadtentwässerung (Am Neckartor),48.785961971223,9.1896933588664
+2024-05-21T00:25:37,2024-05-21,2,0,Wilder Müll,Am Stadtpark 32,48.828835031596,9.1612283120304
