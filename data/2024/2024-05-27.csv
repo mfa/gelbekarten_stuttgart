@@ -1,0 +1,41 @@
+first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,category,location,lat,lon
+2024-05-27T00:26:32,2024-05-27,1,0,Gehweg - Verschmutzung,Richterstraße 12,48.727170498286,9.1486514147138
+2024-05-27T00:26:32,2024-05-27,1,0,Gefahrenstelle,Richterstraße 12,48.727170501566,9.1486514147235
+2024-05-27T00:26:32,2024-05-27,1,0,Gehweg - Schäden,Katzenbachstraße 120,48.734124269358,9.0984754155905
+2024-05-27T00:26:32,2024-05-27,1,0,Sonstiges,In der Nähe von Kärntner Straße 36,48.8126732,9.15913
+2024-05-27T00:26:32,2024-05-27,1,0,Sonstiges,In der Nähe von Forellenweg 24,48.8432815,9.2167763
+2024-05-27T00:26:32,2024-05-27,1,0,Schlagloch,"In der Nähe von Stock, Gew. 2",48.735481664851,9.1680899103879
+2024-05-27T00:26:32,2024-05-27,1,0,Straßeneinlauf - verstopft,In der Nähe von Epplestraße 151,48.735602582408,9.1687215129404
+2024-05-27T00:26:32,2024-05-27,1,0,Wilder Müll,In der Nähe von Hohenheimer Straße 9,48.772640384543,9.1874591615164
+2024-05-27T00:26:32,2024-05-27,1,0,Radweg - Verschmutzung,In der Nähe von Inselstraße 37,48.77881903694,9.2419950259334
+2024-05-27T00:26:32,2024-05-27,1,0,Wilder Müll,In der Nähe von Margaretenstraße 61B,48.7889962,9.2519123
+2024-05-27T00:26:32,2024-05-27,1,0,Sonstiges,In der Nähe von Mainstraße 63,48.82334706339,9.219648737073
+2024-05-27T00:26:32,2024-05-27,1,0,Sonstiges,In der Nähe von Mainstraße 49,48.823107537545,9.2205999252531
+2024-05-27T00:26:32,2024-05-27,1,0,Gehweg - Schäden,Mainstraße 45,48.82296098849,9.2207860273525
+2024-05-27T00:26:32,2024-05-27,1,0,Sonstiges,In der Nähe von Altglas-Container (Freibergstraße / Moselstraße),48.823054437626,9.2184399895884
+2024-05-27T00:26:32,2024-05-27,1,0,Sonstiges,In der Nähe von Jubiläumssäule,48.778710833855,9.1798206380665
+2024-05-27T00:26:32,2024-05-27,1,0,Wilder Müll,Kelterstraße 15,48.760186415834,9.1550895543329
+2024-05-27T00:26:32,2024-05-27,1,0,Gefahrenstelle,In der Nähe von Krehlstraße 65,48.7230083,9.1024017
+2024-05-27T00:26:32,2024-05-27,1,0,Sonstiges,In der Nähe von Nagoldstraße 44,48.820449122791,9.219066182619
+2024-05-27T00:26:32,2024-05-27,1,0,Sonstiges,In der Nähe von Gundelsheimer Straße 22,48.833315523811,9.1949313874737
+2024-05-27T00:26:32,2024-05-27,1,0,Wilder Müll,In der Nähe von Gundelsheimer Straße 22,48.833218588724,9.1946512421041
+2024-05-27T00:26:32,2024-05-27,1,0,Straße - Verschmutzung,In der Nähe von Gronauer Straße 10,48.833618030988,9.1943312332567
+2024-05-27T00:26:32,2024-05-27,1,0,Gehweg - Verschmutzung,In der Nähe von Gundelsheimer Straße 18,48.83321111132,9.1945697797781
+2024-05-27T00:26:32,2024-05-27,1,0,Gefahrenstelle,In der Nähe von Gerätespielfläche (Strombergstraße),48.783075985396,9.2062018530772
+2024-05-27T00:26:32,2024-05-27,1,0,Gehweg - Schäden,Hildebrandstraße 32,48.807589797037,9.183237499111
+2024-05-27T00:26:32,2024-05-27,1,0,Gehweg - Verschmutzung,Hildebrandstraße 9,48.80818677534,9.1811830960436
+2024-05-27T00:26:32,2024-05-27,1,0,Gefahrenstelle,In der Nähe von Esslinger Straße 42,48.775232287896,9.1826315925903
+2024-05-27T00:26:32,2024-05-27,1,0,Sonstiges,Sindbadweg 15,48.718934489823,9.1521891948069
+2024-05-27T00:26:32,2024-05-27,1,0,Verkehrszeichen,Hartwaldstraße 36,48.835325354589,9.2233749938154
+2024-05-27T00:26:32,2024-05-27,1,0,Wilder Müll,Mühlhäuser Straße 303,48.835486804983,9.2189332683956
+2024-05-27T00:26:32,2024-05-27,1,0,Gehweg - Verschmutzung,In der Nähe von Villa Hauff / Werkstatthaus-Ost (Gerokstraße 7),48.78008598932,9.1934529505756
+2024-05-27T00:26:32,2024-05-27,1,0,Wilder Müll,In der Nähe von Gärtnerstraße 20,48.75675709171,9.2558230765857
+2024-05-27T00:26:32,2024-05-27,1,0,Wilder Müll,Asangstraße 49,48.765061105379,9.2718154464436
+2024-05-27T00:26:32,2024-05-27,1,0,SSB Haltestelle,In der Nähe von Haltestelle der Fahrbibliothek (Im Asemwald (bei der SSB-Haltestelle)),48.726262910954,9.1926559542336
+2024-05-27T00:26:32,2024-05-27,1,0,Straßeneinlauf - verstopft,In der Nähe von Humboldtstraße 44,48.768360432298,9.1647318225476
+2024-05-27T00:26:32,2024-05-27,1,0,Gehweg - Schäden,In der Nähe von BAB-Kreuz Stuttgart (51),48.728814089444,9.0704002644728
+2024-05-27T00:26:32,2024-05-27,1,0,Wilder Müll,In der Nähe von Heimgartenstraße 22,48.757434317801,9.2571894324681
+2024-05-27T00:26:32,2024-05-27,1,0,Wilder Müll,In der Nähe von Altglas-Container (Friedrichshafener Straße Friedhof),48.758768216241,9.2561352507363
+2024-05-27T00:26:32,2024-05-27,1,0,Sonstiges,Schönbühlstraße 24A,48.783076689654,9.2041529950121
+2024-05-27T00:26:32,2024-05-27,1,0,Wilder Müll,In der Nähe von Fasanenhofstraße 161,48.709870624433,9.1533574219195
+2024-05-27T00:26:32,2024-05-27,1,0,Gehweg - Verschmutzung,Im Salzweg 19,48.839458122991,9.1619710700474
