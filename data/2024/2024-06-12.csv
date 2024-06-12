@@ -50,3 +50,7 @@ first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,categ
 2024-06-12T08:15:52,2024-06-12,3,8,Gefahrenstelle,Dürnauer Weg 6,48.725347646544,9.1999623996725
 2024-06-12T08:15:52,2024-06-12,3,8,Gefahrenstelle,In der Nähe von Robert-Leicht-Straße 100,48.739512007562,9.1074767103299
 2024-06-12T09:15:22,2024-06-12,3,9,Gefahrenstelle,Zorndorfer Straße 12,48.818016259195,9.113092981994
+2024-06-12T10:15:20,2024-06-12,3,10,Straße - Verschmutzung,In der Nähe von Holderäckerstraße 10,48.823486,9.0987048
+2024-06-12T10:15:20,2024-06-12,3,10,Wilder Müll,In der Nähe von Schwanenstraße 13,48.756968772289,9.2587840676396
+2024-06-12T10:15:20,2024-06-12,3,10,Wilder Müll,In der Nähe von Altglas-Container (Amstetter Straße / Manzeller Weg),48.755176662456,9.2587888235868
+2024-06-12T10:15:20,2024-06-12,3,10,Sonstiges,Hördtstraße 83,48.835665534747,9.1657199416452
