@@ -60,3 +60,7 @@ first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,categ
 2024-09-13T15:15:41,2024-09-13,5,15,Verkehrszeichen,In der Nähe von Waiblinger Straße 83,48.805698205259,9.2282393957802
 2024-09-13T15:15:41,2024-09-13,5,15,Wilder Müll,In der Nähe von Wangener Straße 34,48.786302413223,9.2182859874268
 2024-09-13T15:15:41,2024-09-13,5,15,Wilder Müll,In der Nähe von Altglas-Container (Zahn-Nopper-Straße gegenüber Gebäude 14),48.832874800565,9.1604265144905
+2024-09-13T17:15:03,2024-09-13,5,17,Ampel,Duisburger Straße 47,48.8072913,9.2184229
+2024-09-13T17:15:03,2024-09-13,5,17,Gefahrenstelle,Paulusstraße 30,48.772829232651,9.1507298372263
+2024-09-13T17:15:03,2024-09-13,5,17,Sonstiges,Sonnenbühl 1,48.743071890013,9.1514187264653
+2024-09-13T17:15:03,2024-09-13,5,17,Wilder Müll,Morlockstraße 6,48.798516643299,9.2266702561128
