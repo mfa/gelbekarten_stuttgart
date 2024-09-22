@@ -1,0 +1,41 @@
+first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,category,location,lat,lon
+2024-09-22T00:33:33,2024-09-22,7,0,Begrünung,Am Ochsenwald 37A,48.7191106,9.0921301
+2024-09-22T00:33:33,2024-09-22,7,0,Straßenbeleuchtung,In der Nähe von Halligenstraße 9,48.837806090414,9.1446902943983
+2024-09-22T00:33:33,2024-09-22,7,0,Sonstiges,In der Nähe von Gerätespielfläche (Mittenfeld-/ Rappachstraße),48.806000508018,9.087284699945
+2024-09-22T00:33:33,2024-09-22,7,0,Straßenbeleuchtung,In der Nähe von Martha-Schmidtmann-Straße 4,48.807853317966,9.2339103589844
+2024-09-22T00:33:33,2024-09-22,7,0,Wilder Müll,In der Nähe von Geißeichstraße 17,48.771849452523,9.1355554467337
+2024-09-22T00:33:33,2024-09-22,7,0,Gehweg - Schäden,Wilhelmstraße (M) 7,48.767231997599,9.175529732634
+2024-09-22T00:33:33,2024-09-22,7,0,Radweg - Verschmutzung,In der Nähe von Föhrichstraße 165/1,48.812832222294,9.13231005567
+2024-09-22T00:33:33,2024-09-22,7,0,Wilder Müll,Ludwigsburger Straße 72,48.828302366957,9.1748790260045
+2024-09-22T00:33:33,2024-09-22,7,0,Gefahrenstelle,Klüpfelstraße 10,48.783749245313,9.1565838849425
+2024-09-22T00:33:33,2024-09-22,7,0,Gehweg - Schäden,Ruhrstraße 49,48.802269241626,9.2350078409975
+2024-09-22T00:33:33,2024-09-22,7,0,Sonstiges,In der Nähe von Balthasar-Neumann-Straße 52,48.840818,9.206065
+2024-09-22T00:33:33,2024-09-22,7,0,Wilder Müll,Schwieberdinger Straße 62,48.831652739399,9.1597929881902
+2024-09-22T00:33:33,2024-09-22,7,0,Sonstiges,Roßbergstraße 1B,48.783844462058,9.2023864012115
+2024-09-22T00:33:33,2024-09-22,7,0,Gefahrenstelle,In der Nähe von Stresemannstraße 7/2,48.8005864,9.1726597
+2024-09-22T00:33:33,2024-09-22,7,0,SSB Haltestelle,In der Nähe von Kirchheimer Straße 57,48.744855774484,9.2126899139141
+2024-09-22T00:33:33,2024-09-22,7,0,Wilder Müll,In der Nähe von Schickhardtstraße 41,48.7656811,9.1606245
+2024-09-22T00:33:33,2024-09-22,7,0,Sonstiges,In der Nähe von Borkumstraße 39,48.8342724,9.1405082
+2024-09-22T00:33:33,2024-09-22,7,0,Sonstiges,In der Nähe von Güglingweg 30,48.843422127621,9.1485559005002
+2024-09-22T00:33:33,2024-09-22,7,0,Wilder Müll,In der Nähe von Rotebühlstraße 79,48.772710991937,9.1653633268102
+2024-09-22T00:33:33,2024-09-22,7,0,Wilder Müll,Duisburger Straße 10,48.809212326749,9.2133630165646
+2024-09-22T00:33:33,2024-09-22,7,0,Begrünung,In der Nähe von Zürnstraße 2,48.732824956477,9.0996158800813
+2024-09-22T00:33:33,2024-09-22,7,0,Poller,In der Nähe von Dortmunder Straße 9,48.814530377468,9.2080211430765
+2024-09-22T00:33:33,2024-09-22,7,0,Sonstiges,In der Nähe von Bochumer Straße 9,48.814711929718,9.2083609341677
+2024-09-22T00:33:33,2024-09-22,7,0,Sonstiges,In der Nähe von Gundelsheimer Straße 18,48.833263028722,9.1945971226641
+2024-09-22T00:33:33,2024-09-22,7,0,Gehweg - Verschmutzung,In der Nähe von Altglas-Container (Wagenburgstraße / Ameisenbergstraße),48.779486753093,9.1962432980531
+2024-09-22T00:33:33,2024-09-22,7,0,Brunnen / Gewässer,In der Nähe von Gerätespielfläche (Schönbuchstraße/ Feuersee Rohr),48.717539819403,9.1052365787304
+2024-09-22T00:33:33,2024-09-22,7,0,Ampel,In der Nähe von Fasanenhofstraße 15/1,48.713708177175,9.1637792633514
+2024-09-22T00:33:33,2024-09-22,7,0,Sonstiges,Sigmaringer Straße 115,48.731694082103,9.1565249990679
+2024-09-22T00:33:33,2024-09-22,7,0,Kanaldeckel,Seestraße 65,48.786544368726,9.1681039302927
+2024-09-22T00:33:33,2024-09-22,7,0,Sonstiges,"In der Nähe von Heinrizau, Gew. 2",48.84424208708,9.1815277134893
+2024-09-22T00:33:33,2024-09-22,7,0,Straße - Schäden,In der Nähe von Heidlochstraße 52,48.822685794095,9.1981690809701
+2024-09-22T00:33:33,2024-09-22,7,0,Gefahrenstelle,In der Nähe von Stresemannstraße 38,48.804955140705,9.1750544762862
+2024-09-22T00:33:33,2024-09-22,7,0,Sonstiges,In der Nähe von Am Schloßgarten 26,48.787519527479,9.1879208502229
+2024-09-22T00:33:33,2024-09-22,7,0,Wilder Müll,In der Nähe von Altglas-Container (Burgenlandstraße an der Einfahrt zum EDEKA Center gegenüber Hausnummer 44),48.812007141775,9.1643406058297
+2024-09-22T00:33:33,2024-09-22,7,0,Wilder Müll,In der Nähe von Kissinger Straße 56,48.802646491482,9.2290265500027
+2024-09-22T00:33:33,2024-09-22,7,0,Straßenbeleuchtung,In der Nähe von Märzenbaumstraße 42,48.726880899307,9.1600926852829
+2024-09-22T00:33:33,2024-09-22,7,0,Sonstiges,In der Nähe von Stuttgarter Straße 99,48.80849032204,9.1567312973386
+2024-09-22T00:33:33,2024-09-22,7,0,Sonstiges,In der Nähe von Kitzbüheler Weg 1,48.809611866863,9.15106221525
+2024-09-22T00:33:33,2024-09-22,7,0,Sonstiges,In der Nähe von Kärntner Straße 51,48.812522637713,9.1574878889753
+2024-09-22T00:33:33,2024-09-22,7,0,Gehweg - Verschmutzung,In der Nähe von Witikoweg 22,48.836676716507,9.2074068587048
