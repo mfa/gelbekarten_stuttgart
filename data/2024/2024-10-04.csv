@@ -56,3 +56,7 @@ first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,categ
 2024-10-04T10:16:00,2024-10-04,5,10,Gefahrenstelle,In der Nähe von Mainstraße 110,48.824354777001,9.2147601500945
 2024-10-04T10:16:00,2024-10-04,5,10,Ampel,In der Nähe von Parkhaus Flughafen (P6) (Flughafenstraße 52),48.6922389826,9.194184884677
 2024-10-04T10:16:00,2024-10-04,5,10,Straßenbeleuchtung,Grafeneckstraße 11,48.784741615716,9.198619102483
+2024-10-04T11:14:54,2024-10-04,5,11,Straße - Verschmutzung,Landhausstraße 153,48.78679037236,9.2050801923629
+2024-10-04T11:14:54,2024-10-04,5,11,Wilder Müll,Sparrhärmlingweg 99,48.811363038239,9.1971987265693
+2024-10-04T11:14:54,2024-10-04,5,11,Wilder Müll,In der Nähe von Bernsteinstraße 2C,48.737758762773,9.2249059197346
+2024-10-04T11:14:54,2024-10-04,5,11,Sonstiges,Eberhardstraße 39,48.772891679034,9.1779665520541
