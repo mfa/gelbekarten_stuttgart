@@ -1,0 +1,41 @@
+first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,category,location,lat,lon
+2024-10-07T00:32:41,2024-10-07,1,0,Gehweg - Verschmutzung,Herdweg 88,48.786522376033,9.158220196176
+2024-10-07T00:32:41,2024-10-07,1,0,Gefahrenstelle,In der Nähe von Jägerstraße 2,48.786393119999,9.1801638621922
+2024-10-07T00:32:41,2024-10-07,1,0,Radweg - Verschmutzung,Roßbergstraße 38,48.777655983042,9.1845842407532
+2024-10-07T00:32:41,2024-10-07,1,0,Wilder Müll,In der Nähe von Oswald-Hesse-Straße 29,48.810450998247,9.1684824912219
+2024-10-07T00:32:41,2024-10-07,1,0,Straße - Schäden,Leypoldtstraße 11,48.702573469167,9.2171219725298
+2024-10-07T00:32:41,2024-10-07,1,0,Wilder Müll,In der Nähe von Heumadener Straße 72,48.756231689546,9.24927349164
+2024-10-07T00:32:41,2024-10-07,1,0,Wilder Müll,In der Nähe von Heumadener Straße 72,48.756231689546,9.24927349164
+2024-10-07T00:32:41,2024-10-07,1,0,Gehweg - Schäden,In der Nähe von Bei der Wette 15,48.784005631418,9.2714280581011
+2024-10-07T00:32:41,2024-10-07,1,0,Verkehrszeichen,Eierstraße 23,48.761994296756,9.1618579122182
+2024-10-07T00:32:41,2024-10-07,1,0,Treppe,Bächlenweg 18,48.757591308482,9.2480086194138
+2024-10-07T00:32:41,2024-10-07,1,0,Straßenbeleuchtung,In der Nähe von Oberer Wald am Bopser,48.754293185922,9.1786519282486
+2024-10-07T00:32:41,2024-10-07,1,0,Straßenbeleuchtung,Hahnstraße 21,48.759285751833,9.155875958298
+2024-10-07T00:32:41,2024-10-07,1,0,Verkehrszeichen,In der Nähe von Ludwigsburger Straße 60,48.827552436572,9.1739442670863
+2024-10-07T00:32:41,2024-10-07,1,0,Wilder Müll,In der Nähe von Duisburger Straße 36,48.80852231191,9.2127620484435
+2024-10-07T00:32:41,2024-10-07,1,0,Sonstiges,In der Nähe von Am Schnarrenberg 35,48.829730991798,9.203025057617
+2024-10-07T00:32:41,2024-10-07,1,0,Wilder Müll,In der Nähe von Altglas-Container (Rotebühlstraße / Paulinenstraße),48.773590133468,9.1693735287765
+2024-10-07T00:32:41,2024-10-07,1,0,Wilder Müll,Augustenstraße 6,48.772580726273,9.1694047071417
+2024-10-07T00:32:41,2024-10-07,1,0,Sonstiges,Danneckerstraße 37,48.768720042382,9.1831713323804
+2024-10-07T00:32:41,2024-10-07,1,0,Wilder Müll,In der Nähe von Tiergartenweg 4,48.783857237189,9.1651136638138
+2024-10-07T00:32:41,2024-10-07,1,0,Schlagloch,Am Kriegsbergturm 53,48.789018469296,9.1743757532753
+2024-10-07T00:32:41,2024-10-07,1,0,Schlagloch,Eduard-Pfeiffer-Straße 95,48.78859086151,9.1733648105237
+2024-10-07T00:32:41,2024-10-07,1,0,Gehweg - Verschmutzung,Hallbergerstraße 6,48.785096277047,9.1910377964819
+2024-10-07T00:32:41,2024-10-07,1,0,Wilder Müll,In der Nähe von Blankensteinstraße 195,48.845433878305,9.2052563176188
+2024-10-07T00:32:41,2024-10-07,1,0,Sonstiges,Christophstraße 12,48.771402024947,9.1755659676846
+2024-10-07T00:32:41,2024-10-07,1,0,Gefahrenstelle,In der Nähe von James-F.-Byrnes-Straße 2,48.8167469,9.1895303
+2024-10-07T00:32:41,2024-10-07,1,0,Wilder Müll,In der Nähe von Altglas-Container (Burgenlandstraße an der Einfahrt zum EDEKA Center gegenüber Hausnummer 44),48.812101128634,9.1645670352164
+2024-10-07T00:32:41,2024-10-07,1,0,Wilder Müll,In der Nähe von Altglas-Container (Dieterlestraße / Mühlstraße),48.807371566216,9.1595149944897
+2024-10-07T00:32:41,2024-10-07,1,0,Wilder Müll,In der Nähe von Altglas-Container (Feuerbacher-Tal-Straße Parkplatz Friedhof),48.802094144591,9.1539489803504
+2024-10-07T00:32:41,2024-10-07,1,0,Wilder Müll,In der Nähe von Altkleider-Container (Deidesheimer Straße / Ludwigshafener Straße),48.812657588167,9.1183656024569
+2024-10-07T00:32:41,2024-10-07,1,0,Ampel,In der Nähe von Filderhauptstraße 81,48.703272595729,9.2056918538053
+2024-10-07T00:32:41,2024-10-07,1,0,Gehweg - Verschmutzung,Marconistraße 25,48.832240511135,9.1575874065459
+2024-10-07T00:32:41,2024-10-07,1,0,Wilder Müll,Marconistraße 29,48.831961919119,9.157382140375
+2024-10-07T00:32:41,2024-10-07,1,0,Kanaldeckel,In der Nähe von Hofrat-Seyffer-Quelle (Hofener Straße (Reinhold-Maier-Brücke)),48.815847779003,9.2260797529827
+2024-10-07T00:32:41,2024-10-07,1,0,Sonstiges,Faullederstraße 17,48.779455382034,9.2069151468614
+2024-10-07T00:32:41,2024-10-07,1,0,Wilder Müll,Veitstraße 82,48.845840853542,9.2328127850346
+2024-10-07T00:32:41,2024-10-07,1,0,Straßenbeleuchtung,Zeppelinstraße 44,48.780789132185,9.1536556650288
+2024-10-07T00:32:41,2024-10-07,1,0,Gefahrenstelle,Zeppelinstraße 86B,48.779204454479,9.1478385564749
+2024-10-07T00:32:41,2024-10-07,1,0,Wilder Müll,Amstetter Straße 84,48.75479119065,9.2589357043725
+2024-10-07T00:32:41,2024-10-07,1,0,Straßenbeleuchtung,In der Nähe von Ulmer Straße 133,48.7845411,9.2245142
+2024-10-07T00:32:41,2024-10-07,1,0,Wilder Müll,In der Nähe von Altglas-Container (Sparrhärmlingweg / Am Römerkastell),48.812329617571,9.2062642744449
