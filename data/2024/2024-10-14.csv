@@ -51,3 +51,6 @@ first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,categ
 2024-10-14T09:15:55,2024-10-14,1,9,Ampel,Landhausstraße 45,48.785317566721,9.1932031884035
 2024-10-14T10:15:52,2024-10-14,1,10,Wilder Müll,Mannheimer Straße 46,48.810772307087,9.1954393751755
 2024-10-14T10:15:52,2024-10-14,1,10,Gefahrenstelle,In der Nähe von Goerdelerstraße,48.776762135401,9.18151579364
+2024-10-14T11:15:14,2024-10-14,1,11,Straße - Schäden,Birkenwaldstraße 95,48.789388696913,9.1730963873035
+2024-10-14T11:15:14,2024-10-14,1,11,Gefahrenstelle,In der Nähe von Dürrbachstraße 81,48.759184169107,9.2354646364842
+2024-10-14T11:15:14,2024-10-14,1,11,Gefahrenstelle,In der Nähe von Dürrbachstraße 71,48.759527220033,9.2358159309839
