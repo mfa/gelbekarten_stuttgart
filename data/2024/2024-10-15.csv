@@ -54,3 +54,7 @@ first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,categ
 2024-10-15T07:15:54,2024-10-15,2,7,Ampel,In der Nähe von Heerstraße 33,48.733044289839,9.1010012499684
 2024-10-15T09:15:56,2024-10-15,2,9,Gefahrenstelle,In der Nähe von Möhringer Straße 151,48.758606353477,9.1507669494932
 2024-10-15T09:15:56,2024-10-15,2,9,Verkehrszeichen,In der Nähe von Hechinger Straße 13B,48.724905167438,9.1466731766582
+2024-10-15T10:16:03,2024-10-15,2,10,Poller,In der Nähe von Steinbrunnen (Dinghofstraße / Steinbrunnenstraße),48.724761090443,9.1499897293487
+2024-10-15T10:16:03,2024-10-15,2,10,Wilder Müll,In der Nähe von Auwiesenstraße 2A,48.72113790749,9.1072012594846
+2024-10-15T10:16:03,2024-10-15,2,10,Gefahrenstelle,In der Nähe von Altglas-Container (Grüninger Straße Parkplatz Sportplatz),48.721889641641,9.2061113150308
+2024-10-15T10:16:03,2024-10-15,2,10,Gehweg - Verschmutzung,Damaschkestraße 33,48.827443057968,9.2289261849148
