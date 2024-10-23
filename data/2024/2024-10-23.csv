@@ -1,0 +1,41 @@
+first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,category,location,lat,lon
+2024-10-23T00:31:19,2024-10-23,3,0,Straßenbeleuchtung,Leonorenstraße 23,48.752996221589,9.1695565317568
+2024-10-23T00:31:19,2024-10-23,3,0,Straßenbeleuchtung,In der Nähe von Böckinger Straße 21,48.837210272514,9.1967873441588
+2024-10-23T00:31:19,2024-10-23,3,0,Wilder Müll,In der Nähe von Altglas-Container (Gottfried-Keller-Straße / Salzwiesenstraße),48.835366112253,9.1594915192783
+2024-10-23T00:31:19,2024-10-23,3,0,Gefahrenstelle,In der Nähe von Steckfeldstraße 47,48.715623726855,9.2002554437878
+2024-10-23T00:31:19,2024-10-23,3,0,Gefahrenstelle,In der Nähe von Florian-Geyer-Straße 36,48.819422113038,9.120075725325
+2024-10-23T00:31:19,2024-10-23,3,0,Wilder Müll,Veielbrunnenweg 88,48.798994012682,9.2263728277537
+2024-10-23T00:31:19,2024-10-23,3,0,Sonstiges,In der Nähe von Markus-Schleicher-Straße 15A,48.712157087569,9.1558539836265
+2024-10-23T00:31:19,2024-10-23,3,0,Wilder Müll,"In der Nähe von Kreutelstein, Gew. 12",48.800325442955,9.248068926872
+2024-10-23T00:31:19,2024-10-23,3,0,Wilder Müll,In der Nähe von Bernsteinstraße 32D,48.737037889707,9.2289160102133
+2024-10-23T00:31:19,2024-10-23,3,0,Wilder Müll,Mönchsbergstraße 111,48.829283060241,9.1862733062809
+2024-10-23T00:31:19,2024-10-23,3,0,Gehweg - Verschmutzung,In der Nähe von Altglas-Container (Schmidener Straße / Gnesener Straße),48.813086264264,9.2290839562198
+2024-10-23T00:31:19,2024-10-23,3,0,Wilder Müll,Wörishofener Straße 5,48.800324704144,9.2267328734545
+2024-10-23T00:31:19,2024-10-23,3,0,Sonstiges,Austraße 82,48.823398615081,9.2224364353691
+2024-10-23T00:31:19,2024-10-23,3,0,Straßenbeleuchtung,Dachsweg 10,48.80506775689,9.107221367484
+2024-10-23T00:31:19,2024-10-23,3,0,Gehweg - Schäden,Ohnholdstraße 1B,48.722003046737,9.204944605698
+2024-10-23T00:31:19,2024-10-23,3,0,Wilder Müll,Veielbrunnenweg 88,48.798994012682,9.2263728277537
+2024-10-23T00:31:19,2024-10-23,3,0,Wilder Müll,Elwertstraße 2,48.800474700116,9.2189442597608
+2024-10-23T00:31:19,2024-10-23,3,0,Ampel,In der Nähe von Altglas-Container (Schwabstraße / Lerchenstraße),48.779866810919,9.1563442618042
+2024-10-23T00:31:19,2024-10-23,3,0,Wilder Müll,Comburgstraße 9,48.784129476812,9.2187234054955
+2024-10-23T00:31:19,2024-10-23,3,0,Straßenbeleuchtung,In der Nähe von Auerbachstraße 233/1,48.821897764279,9.1989048621985
+2024-10-23T00:31:19,2024-10-23,3,0,Wilder Müll,In der Nähe von Johannesstraße 11,48.774721266341,9.1634440381289
+2024-10-23T00:31:19,2024-10-23,3,0,Sonstiges,Jägerstraße 14,48.786240125587,9.1789803261231
+2024-10-23T00:31:19,2024-10-23,3,0,Sonstiges,Bopserstraße 13,48.769775955824,9.1799697219751
+2024-10-23T00:31:19,2024-10-23,3,0,Sonstiges,In der Nähe von Spielfläche (Welzheimer Straße),48.784072697609,9.2165614911878
+2024-10-23T00:31:19,2024-10-23,3,0,Wilder Müll,In der Nähe von Geräte- und Ballspielfläche (Krefelder Straße/ Mombachquelle),48.8105672,9.21535001
+2024-10-23T00:31:19,2024-10-23,3,0,Gefahrenstelle,In der Nähe von Brühlstraße 3,48.73131436248,9.1020872469108
+2024-10-23T00:31:19,2024-10-23,3,0,Gehweg - Verschmutzung,Landenbergerstraße 60,48.798392628405,9.173767367564
+2024-10-23T00:31:19,2024-10-23,3,0,Begrünung,In der Nähe von Teichhuhnstraße 14A,48.832361846325,9.22515859441
+2024-10-23T00:31:19,2024-10-23,3,0,Sonstiges,In der Nähe von Geräte- und Ballspielfläche (Ilse-Beate-Jäkel-Weg),48.740817030297,9.2179249045875
+2024-10-23T00:31:19,2024-10-23,3,0,Kanaldeckel,Höscheleweg 29,48.781564436567,9.1995458298237
+2024-10-23T00:31:19,2024-10-23,3,0,Wilder Müll,In der Nähe von Weberstraße 39,48.773228448052,9.1831352779816
+2024-10-23T00:31:19,2024-10-23,3,0,Wilder Müll,In der Nähe von Hirschstraße 8,48.775307581581,9.1772874431626
+2024-10-23T00:31:19,2024-10-23,3,0,Verkehrszeichen,"In der Nähe von Schwilkental, Gew. 2",48.850481046199,9.144881780833
+2024-10-23T00:31:19,2024-10-23,3,0,Gehweg - Verschmutzung,Leinenweberstraße 12,48.729985159231,9.1495028236837
+2024-10-23T00:31:19,2024-10-23,3,0,Sonstiges,Reinsburgstraße 60,48.76955756422,9.1635289413613
+2024-10-23T00:31:19,2024-10-23,3,0,Straßenbeleuchtung,Römerstraße 37,48.758891856629,9.175773159774
+2024-10-23T00:31:19,2024-10-23,3,0,Wilder Müll,In der Nähe von Altglas-Container (Schmidener Straße / Gnesener Straße),48.812832237248,9.2290550490168
+2024-10-23T00:31:19,2024-10-23,3,0,Gefahrenstelle,In der Nähe von Vollmoellerstraße 50,48.728036108258,9.1039556941956
+2024-10-23T00:31:19,2024-10-23,3,0,Straßenbeleuchtung,Gerstenhalde 9,48.802355544811,9.1022041112118
+2024-10-23T00:31:19,2024-10-23,3,0,Wilder Müll,In der Nähe von Altglas-Container (Auf der Steig / Rostocker Straße),48.815740028744,9.2080627765291
