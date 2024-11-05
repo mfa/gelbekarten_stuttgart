@@ -70,3 +70,7 @@ first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,categ
 2024-11-05T14:15:27,2024-11-05,2,14,Verkehrszeichen,Paprikastraße 10,48.741475072464,9.2302085221233
 2024-11-05T15:15:43,2024-11-05,2,15,Begrünung,In der Nähe von Reutlinger Straße 19,48.748438853564,9.1774368137006
 2024-11-05T15:15:43,2024-11-05,2,15,Gefahrenstelle,Urbanstraße 25,48.778410765662,9.1864661291865
+2024-11-05T16:16:23,2024-11-05,2,16,Straßenbeleuchtung,Innsbrucker Straße 33,48.773769587581,9.2795441928137
+2024-11-05T16:16:23,2024-11-05,2,16,Sonstiges,In der Nähe von Geräte- und Ballspielfläche (Große Falterstraße/ Traifelbergplatz),48.740709640713,9.1765403594356
+2024-11-05T16:16:23,2024-11-05,2,16,Gefahrenstelle,Eichenparkstraße 34,48.737232615881,9.2094211119207
+2024-11-05T16:16:23,2024-11-05,2,16,Verkehrszeichen,In der Nähe von Spaichinger Straße 7,48.74235886435,9.2148618863689
