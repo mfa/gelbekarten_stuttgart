@@ -52,3 +52,5 @@ first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,categ
 2024-12-05T12:17:24,2024-12-05,4,12,Ampel,Neckartalstraße 9,48.805308684076,9.20949291567
 2024-12-05T14:15:36,2024-12-05,4,14,Ampel,In der Nähe von Heilbronner Straße 358,48.81884333704,9.175740228776
 2024-12-05T14:15:36,2024-12-05,4,14,Wilder Müll,Leuschnerstraße 42,48.776267564715,9.164231288624
+2024-12-05T15:16:00,2024-12-05,4,15,Straße - Verschmutzung,Stuttgarter Straße 194,48.811353424965,9.1484488814888
+2024-12-05T15:16:00,2024-12-05,4,15,Sonstiges,Metzinger Straße 52,48.741666277681,9.1722251650354
