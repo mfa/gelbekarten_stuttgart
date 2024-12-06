@@ -56,3 +56,7 @@ first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,categ
 2024-12-06T12:17:20,2024-12-06,5,12,Verkehrszeichen,In der Nähe von Birkacher Straße 75,48.726763883022,9.2115148682895
 2024-12-06T13:18:02,2024-12-06,5,13,Gefahrenstelle,In der Nähe von Schützenplatz,48.781766446625,9.1902157304338
 2024-12-06T13:18:02,2024-12-06,5,13,Sonstiges,Schwarenbergstraße 160,48.779688617874,9.2022199608254
+2024-12-06T15:15:52,2024-12-06,5,15,Wilder Müll,In der Nähe von Leopoldo-Retti-Weg,48.777092600813,9.1821855526325
+2024-12-06T15:15:52,2024-12-06,5,15,Sonstiges,Gartenstraße 49,48.733911237492,9.1053972177151
+2024-12-06T15:15:52,2024-12-06,5,15,Ampel,In der Nähe von Böblinger Straße 472,48.7396848,9.129959
+2024-12-06T15:15:52,2024-12-06,5,15,Wilder Müll,In der Nähe von Leopoldo-Retti-Weg,48.7771329,9.1822167
