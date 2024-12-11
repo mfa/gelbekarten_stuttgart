@@ -40,3 +40,8 @@ first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,categ
 2024-12-11T00:34:25,2024-12-11,3,0,Straßenbeleuchtung,Herschelstraße 6D,48.71759708261,9.1190671392973
 2024-12-11T00:34:25,2024-12-11,3,0,Verkehrszeichen,In der Nähe von Voltastraße 61,48.815103020668,9.2219688550867
 2024-12-11T06:16:49,2024-12-11,3,6,Sonstiges,Abelsbergstraße 30,48.788667871783,9.2115274745813
+2024-12-11T07:15:46,2024-12-11,3,7,Gefahrenstelle,In der Nähe von Weidenbrunnen 103,48.845866201029,9.2295234671453
+2024-12-11T07:15:46,2024-12-11,3,7,Wilder Müll,In der Nähe von Mörikestraße 1,48.768231601953,9.1690562622133
+2024-12-11T07:15:46,2024-12-11,3,7,Sonstiges,In der Nähe von Gammertinger Straße 67,48.724780186211,9.1560343946202
+2024-12-11T07:15:46,2024-12-11,3,7,Wilder Müll,In der Nähe von Altglas-Container (Moselstraße Festwiese),48.822386807298,9.2207960790097
+2024-12-11T07:15:46,2024-12-11,3,7,Wilder Müll,In der Nähe von Altglas-Container (Freibergstraße / Moselstraße),48.823067773325,9.2184851111626
