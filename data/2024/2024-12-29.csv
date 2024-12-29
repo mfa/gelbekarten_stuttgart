@@ -1,0 +1,41 @@
+first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,category,location,lat,lon
+2024-12-29T00:35:00,2024-12-29,7,0,Wilder Müll,In der Nähe von Boschwerk 6C,48.822626769537,9.1592248863466
+2024-12-29T00:35:00,2024-12-29,7,0,Wilder Müll,Duisburger Straße 46,48.80913875824,9.2136293242757
+2024-12-29T00:35:00,2024-12-29,7,0,Gefahrenstelle,In der Nähe von Skulptur Der Mönch von Münster (Jagststraße / Schussengasse),48.819932445529,9.2244647619236
+2024-12-29T00:35:00,2024-12-29,7,0,Wilder Müll,Birkenwaldstraße 187,48.796924488682,9.1749605639598
+2024-12-29T00:35:00,2024-12-29,7,0,Wilder Müll,Wagrainstraße 80A,48.829358205165,9.2154320737922
+2024-12-29T00:35:00,2024-12-29,7,0,Sonstiges,Augsburger Straße 41,48.802353472506,9.2334012928895
+2024-12-29T00:35:00,2024-12-29,7,0,Wilder Müll,Gnesener Straße 80,48.81338226023,9.2290256140348
+2024-12-29T00:35:00,2024-12-29,7,0,Wilder Müll,Hofener Straße 17,48.809023343443,9.2176194803093
+2024-12-29T00:35:00,2024-12-29,7,0,Sonstiges,Sparrhärmlingweg 10,48.81132757032,9.1968989348204
+2024-12-29T00:35:00,2024-12-29,7,0,Gefahrenstelle,In der Nähe von Am Kräherwald 235,48.781492031855,9.1408500312639
+2024-12-29T00:35:00,2024-12-29,7,0,Straße - Schäden,Falkertstraße 8,48.779001105024,9.1650977508968
+2024-12-29T00:35:00,2024-12-29,7,0,Wilder Müll,Außerhalb Stuttgarts,48.696251194198,9.2309039921905
+2024-12-29T00:35:00,2024-12-29,7,0,Gehweg - Verschmutzung,In der Nähe von Altglas-Container (Korntaler Straße / Mercatorweg),48.84186691906,9.1452573189571
+2024-12-29T00:35:00,2024-12-29,7,0,Wilder Müll,Kissinger Straße 60,48.802747924725,9.2296036298052
+2024-12-29T00:35:00,2024-12-29,7,0,Wilder Müll,In der Nähe von Nebelhornstraße 2,48.78066651918,9.2513097766968
+2024-12-29T00:35:00,2024-12-29,7,0,Wilder Müll,In der Nähe von Altglas-Container (Korntaler Straße / Mercatorweg),48.841849678303,9.1448872211383
+2024-12-29T00:35:00,2024-12-29,7,0,Gehweg - Schäden,In der Nähe von Möhringer Straße 56,48.761955611253,9.1597895321902
+2024-12-29T00:35:00,2024-12-29,7,0,Gehweg - Verschmutzung,In der Nähe von Schwabstraße 33,48.769791067084,9.1584842346776
+2024-12-29T00:35:00,2024-12-29,7,0,Straße - Schäden,Gutenbergstraße 16,48.77402625517,9.1651494905662
+2024-12-29T00:35:00,2024-12-29,7,0,Gehweg - Verschmutzung,In der Nähe von Roggenstraße 17,48.698479430856,9.2132687314445
+2024-12-29T00:35:00,2024-12-29,7,0,Straßenbeleuchtung,Hölzelweg 3,48.801472196978,9.1777271977764
+2024-12-29T00:35:00,2024-12-29,7,0,Sonstiges,Marktplatz (M) 1,48.774798521316,9.178163841504
+2024-12-29T00:35:00,2024-12-29,7,0,Sonstiges,Barbarossastraße 97,48.794519647607,9.2579555021344
+2024-12-29T00:35:00,2024-12-29,7,0,Straßeneinlauf - verstopft,In der Nähe von Schwieberdinger Straße 3,48.825534443055,9.1689973603832
+2024-12-29T00:35:00,2024-12-29,7,0,Wilder Müll,In der Nähe von Boschwerk 6C,48.822663769696,9.159156057121
+2024-12-29T00:35:00,2024-12-29,7,0,Wilder Müll,In der Nähe von Altglas-Container (Steinhaldenstraße / Einsteinstraße),48.818853550256,9.2362097768923
+2024-12-29T00:35:00,2024-12-29,7,0,Gehweg - Schäden,Ditzinger Straße 30,48.816637049521,9.1066330484527
+2024-12-29T00:35:00,2024-12-29,7,0,Straße - Verschmutzung,In der Nähe von Altglas-Container (Erdmannhäuser Straße / Ottmarsheimer Straße),48.847091339092,9.1603062977272
+2024-12-29T00:35:00,2024-12-29,7,0,Gefahrenstelle,In der Nähe von Brunnen Falsche Klinge (Tiefenbachtal Silberwald),48.760207928763,9.2032185383227
+2024-12-29T00:35:00,2024-12-29,7,0,Wilder Müll,In der Nähe von Altglas-Container (Korntaler Straße / Mercatorweg),48.841885814661,9.1452467275627
+2024-12-29T00:35:00,2024-12-29,7,0,Wilder Müll,Korntaler Straße 57,48.844739198297,9.1550642480057
+2024-12-29T00:35:00,2024-12-29,7,0,Sonstiges,In der Nähe von Lehenstraße 20,48.762648237822,9.1716993409553
+2024-12-29T00:35:00,2024-12-29,7,0,Gehweg - Verschmutzung,In der Nähe von Mörikestraße 24/1,48.768357416901,9.1663364607025
+2024-12-29T00:35:00,2024-12-29,7,0,Straße - Verschmutzung,Johannesstraße 2,48.773937388737,9.1643870136233
+2024-12-29T00:35:00,2024-12-29,7,0,Wilder Müll,In der Nähe von Altglas-Container (Korntaler Straße / Mercatorweg),48.841856902606,9.1452476817127
+2024-12-29T00:35:00,2024-12-29,7,0,Sonstiges,Waldburgstraße 169,48.722083199531,9.0928909577072
+2024-12-29T00:35:00,2024-12-29,7,0,Straßenbeleuchtung,Schillerstraße 5,48.781470804518,9.1855926520607
+2024-12-29T00:35:00,2024-12-29,7,0,Sonstiges,Linzer Straße 90,48.816917893223,9.1528397525313
+2024-12-29T00:35:00,2024-12-29,7,0,Wilder Müll,In der Nähe von Gerätespielfläche (Widdumhof- / Ludmannstraße),48.814663991376,9.1097174468802
+2024-12-29T00:35:00,2024-12-29,7,0,Sonstiges,Solitudestraße 295,48.818561768096,9.116349993417
