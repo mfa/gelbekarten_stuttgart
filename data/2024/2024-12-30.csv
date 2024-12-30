@@ -1,0 +1,41 @@
+first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,category,location,lat,lon
+2024-12-30T00:33:13,2024-12-30,1,0,Gehweg - Verschmutzung,In der Nähe von Schwabstraße 33,48.769791067084,9.1584842346776
+2024-12-30T00:33:13,2024-12-30,1,0,Straße - Schäden,Gutenbergstraße 16,48.77402625517,9.1651494905662
+2024-12-30T00:33:13,2024-12-30,1,0,Gehweg - Verschmutzung,In der Nähe von Roggenstraße 17,48.698479430856,9.2132687314445
+2024-12-30T00:33:13,2024-12-30,1,0,Straßenbeleuchtung,Hölzelweg 3,48.801472196978,9.1777271977764
+2024-12-30T00:33:13,2024-12-30,1,0,Sonstiges,Marktplatz (M) 1,48.774798521316,9.178163841504
+2024-12-30T00:33:13,2024-12-30,1,0,Sonstiges,Barbarossastraße 97,48.794519647607,9.2579555021344
+2024-12-30T00:33:13,2024-12-30,1,0,Straßeneinlauf - verstopft,In der Nähe von Schwieberdinger Straße 3,48.825534443055,9.1689973603832
+2024-12-30T00:33:13,2024-12-30,1,0,Wilder Müll,In der Nähe von Boschwerk 6C,48.822663769696,9.159156057121
+2024-12-30T00:33:13,2024-12-30,1,0,Wilder Müll,In der Nähe von Altglas-Container (Steinhaldenstraße / Einsteinstraße),48.818853550256,9.2362097768923
+2024-12-30T00:33:13,2024-12-30,1,0,Gehweg - Schäden,Ditzinger Straße 30,48.816637049521,9.1066330484527
+2024-12-30T00:33:13,2024-12-30,1,0,Straße - Verschmutzung,In der Nähe von Altglas-Container (Erdmannhäuser Straße / Ottmarsheimer Straße),48.847091339092,9.1603062977272
+2024-12-30T00:33:13,2024-12-30,1,0,Gefahrenstelle,In der Nähe von Brunnen Falsche Klinge (Tiefenbachtal Silberwald),48.760207928763,9.2032185383227
+2024-12-30T00:33:13,2024-12-30,1,0,Wilder Müll,In der Nähe von Altglas-Container (Korntaler Straße / Mercatorweg),48.841885814661,9.1452467275627
+2024-12-30T00:33:13,2024-12-30,1,0,Wilder Müll,Korntaler Straße 57,48.844739198297,9.1550642480057
+2024-12-30T00:33:13,2024-12-30,1,0,Sonstiges,In der Nähe von Lehenstraße 20,48.762648237822,9.1716993409553
+2024-12-30T00:33:13,2024-12-30,1,0,Gehweg - Verschmutzung,In der Nähe von Mörikestraße 24/1,48.768357416901,9.1663364607025
+2024-12-30T00:33:13,2024-12-30,1,0,Straße - Verschmutzung,Johannesstraße 2,48.773937388737,9.1643870136233
+2024-12-30T00:33:13,2024-12-30,1,0,Wilder Müll,In der Nähe von Altglas-Container (Korntaler Straße / Mercatorweg),48.841856902606,9.1452476817127
+2024-12-30T00:33:13,2024-12-30,1,0,Sonstiges,Waldburgstraße 169,48.722083199531,9.0928909577072
+2024-12-30T00:33:13,2024-12-30,1,0,Straßenbeleuchtung,Schillerstraße 5,48.781470804518,9.1855926520607
+2024-12-30T00:33:13,2024-12-30,1,0,Sonstiges,Linzer Straße 90,48.816917893223,9.1528397525313
+2024-12-30T00:33:13,2024-12-30,1,0,Wilder Müll,In der Nähe von Gerätespielfläche (Widdumhof- / Ludmannstraße),48.814663991376,9.1097174468802
+2024-12-30T00:33:13,2024-12-30,1,0,Sonstiges,Solitudestraße 295,48.818561768096,9.116349993417
+2024-12-30T00:33:13,2024-12-30,1,0,Straßenbeleuchtung,Uhlandstraße 24,48.774764875668,9.1880178548947
+2024-12-30T00:33:13,2024-12-30,1,0,Bäder,Augsburger Straße 590,48.767355661467,9.2641988153319
+2024-12-30T00:33:13,2024-12-30,1,0,Straßenbeleuchtung,In der Nähe von Am Sportpark 15,48.81014069046,9.1411772618776
+2024-12-30T00:33:13,2024-12-30,1,0,Wilder Müll,In der Nähe von Wildeckstraße 40,48.807144659933,9.1473649103824
+2024-12-30T00:33:13,2024-12-30,1,0,Kanaldeckel,In der Nähe von Eberhardstraße 31,48.774117793839,9.1793012662312
+2024-12-30T00:33:13,2024-12-30,1,0,Straße - Verschmutzung,Raitelsbergstraße 30,48.786980179553,9.2095871951379
+2024-12-30T00:33:13,2024-12-30,1,0,Wilder Müll,In der Nähe von Taldorfer Straße 33,48.729895095352,9.1998218142233
+2024-12-30T00:33:13,2024-12-30,1,0,Gefahrenstelle,Nadlerstraße 12,48.774035022252,9.1774125633827
+2024-12-30T00:33:13,2024-12-30,1,0,Straßenbeleuchtung,In der Nähe von Knappenweg 51E,48.747748974409,9.1186492885965
+2024-12-30T00:33:13,2024-12-30,1,0,Brunnen / Gewässer,In der Nähe von Tuttlinger Straße 132,48.750259685106,9.2213246481234
+2024-12-30T00:33:13,2024-12-30,1,0,Sonstiges,In der Nähe von Altglas-Container (Korntaler Straße / Mercatorweg),48.841855857778,9.1447446265837
+2024-12-30T00:33:13,2024-12-30,1,0,Straßenbeleuchtung,In der Nähe von Obere Waiblinger Straße 136,48.806750634904,9.2346748118788
+2024-12-30T00:33:13,2024-12-30,1,0,Straßenbeleuchtung,Herschelstraße 6D,48.71759708261,9.1190671392973
+2024-12-30T00:33:13,2024-12-30,1,0,Gefahrenstelle,In der Nähe von Altglas-Container (Korntaler Straße / Mercatorweg),48.841855041949,9.1448634074506
+2024-12-30T00:33:13,2024-12-30,1,0,Sonstiges,In der Nähe von Etzelstraße 27,48.7662409,9.1794362
+2024-12-30T00:33:13,2024-12-30,1,0,Wilder Müll,Blankensteinstraße 34,48.83932744429,9.1941603710462
+2024-12-30T00:33:13,2024-12-30,1,0,Wilder Müll,In der Nähe von Nürnberger Straße 106,48.8084506514,9.2441010860041
