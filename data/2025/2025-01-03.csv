@@ -51,3 +51,7 @@ first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,categ
 2025-01-03T10:15:38,2025-01-03,5,10,Verkehrszeichen,Silberwaldstraße 19,48.746324152106,9.2113088939207
 2025-01-03T10:15:38,2025-01-03,5,10,Gehweg - Verschmutzung,In der Nähe von Altglas-Container (Amstetter Straße / Manzeller Weg),48.755178516515,9.2587919292606
 2025-01-03T10:15:38,2025-01-03,5,10,Sonstiges,Zamenhofstraße 32,48.770579486186,9.1388581529163
+2025-01-03T12:17:07,2025-01-03,5,12,Ampel,Hauptstätter Straße 150,48.764862089858,9.16946039304
+2025-01-03T12:17:07,2025-01-03,5,12,Wilder Müll,Karl-Kloß-Straße 17,48.759658253099,9.1597685973117
+2025-01-03T12:17:07,2025-01-03,5,12,SSB Haltestelle,In der Nähe von Haltestelle der Fahrbibliothek (Im Asemwald (bei der SSB-Haltestelle)),48.726270127279,9.1925459735988
+2025-01-03T12:17:07,2025-01-03,5,12,Wilder Müll,Amstetter Straße 69,48.755384981754,9.2589115450694
