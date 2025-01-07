@@ -1,0 +1,41 @@
+first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,category,location,lat,lon
+2025-01-07T00:32:09,2025-01-07,2,0,Straßenbeleuchtung,In der Nähe von Heidlochstraße 52,48.823164646655,9.1981871103226
+2025-01-07T00:32:09,2025-01-07,2,0,Verkehrszeichen,Johannesstraße 74,48.780448142678,9.1596439984969
+2025-01-07T00:32:09,2025-01-07,2,0,Sonstiges,Gänsheidestraße 29,48.774951319016,9.1949191919478
+2025-01-07T00:32:09,2025-01-07,2,0,Wilder Müll,In der Nähe von Altkleider-Container (Haldenrainstraße / Kelterplatz Parkplatz),48.829995186868,9.1770453902204
+2025-01-07T00:32:09,2025-01-07,2,0,Wilder Müll,In der Nähe von Hans-Vaut-Straße 27,48.826898540463,9.1754314752381
+2025-01-07T00:32:09,2025-01-07,2,0,Wilder Müll,In der Nähe von Schrozberger Straße 15/1,48.826294995366,9.1745596691661
+2025-01-07T00:32:09,2025-01-07,2,0,Wilder Müll,Künzelsauer Straße 12,48.826556514073,9.1774842082599
+2025-01-07T00:32:09,2025-01-07,2,0,Gehweg - Verschmutzung,In der Nähe von Relenbergstraße 51,48.787506299547,9.1657625536015
+2025-01-07T00:32:09,2025-01-07,2,0,Wilder Müll,In der Nähe von Schöpfbrunnen (Am Schnarrenberg),48.827188563435,9.2071221221844
+2025-01-07T00:32:09,2025-01-07,2,0,Wilder Müll,In der Nähe von Elbestraße 157/1,48.825084730449,9.211897980851
+2025-01-07T00:32:09,2025-01-07,2,0,Wilder Müll,In der Nähe von Altglas-Container (Freibergstraße / Moselstraße),48.823098271064,9.2184610293568
+2025-01-07T00:32:09,2025-01-07,2,0,Gefahrenstelle,Kyffhäuserstraße 83,48.813639176489,9.134563761337
+2025-01-07T00:32:09,2025-01-07,2,0,Sonstiges,Rappenberg 38,48.827594167136,9.1848227982364
+2025-01-07T00:32:09,2025-01-07,2,0,Radweg - Verschmutzung,In der Nähe von Hohenloher Straße 111,48.8268118,9.1860162
+2025-01-07T00:32:09,2025-01-07,2,0,Wilder Müll,Dr.-Gotthilf-Schenkel-Weg 1B,48.828360784884,9.18915842811
+2025-01-07T00:32:09,2025-01-07,2,0,Radweg - Scherben,In der Nähe von Unterer Schloßgarten 4,48.790816488149,9.1915169214543
+2025-01-07T00:32:09,2025-01-07,2,0,Wilder Müll,In der Nähe von Sportklinik Stuttgart GmbH (Taubenheimstraße 8),48.807257376074,9.2236438702783
+2025-01-07T00:32:09,2025-01-07,2,0,Wilder Müll,Liebenzeller Straße 1,48.805471286944,9.2169095421736
+2025-01-07T00:32:09,2025-01-07,2,0,Gefahrenstelle,In der Nähe von Viergiebelweg 26,48.798199184682,9.1728202220303
+2025-01-07T00:32:09,2025-01-07,2,0,Wilder Müll,In der Nähe von Baumannweg 16,48.810171886764,9.239837941704
+2025-01-07T00:32:09,2025-01-07,2,0,Wilder Müll,In der Nähe von Kappisweg 1,48.79616029813,9.1723136216658
+2025-01-07T00:32:09,2025-01-07,2,0,Sonstiges,In der Nähe von Katzenbachstraße 207,48.73473598964,9.0880313927525
+2025-01-07T00:32:09,2025-01-07,2,0,Wilder Müll,In der Nähe von Himmerreichstraße 54A,48.776747166188,9.1217600718201
+2025-01-07T00:32:09,2025-01-07,2,0,Wilder Müll,In der Nähe von Altglas-Container (Rotenwaldstraße / Reinsburgstraße),48.770963693463,9.144465701558
+2025-01-07T00:32:09,2025-01-07,2,0,Gehweg - Verschmutzung,In der Nähe von Kapellenweg 43,48.832749315062,9.2227467929438
+2025-01-07T00:32:09,2025-01-07,2,0,Wilder Müll,In der Nähe von Rotenwaldstraße 140,48.767499634559,9.1452423142269
+2025-01-07T00:32:09,2025-01-07,2,0,Wilder Müll,In der Nähe von Sophienbrunnen (Hasenbergsteige / Bürgerallee),48.765055484228,9.1350489360987
+2025-01-07T00:32:09,2025-01-07,2,0,Wilder Müll,In der Nähe von Sporthalle Botnang (Kauffmannstraße 39),48.778000712048,9.1218277283002
+2025-01-07T00:32:09,2025-01-07,2,0,Wilder Müll,In der Nähe von Hasenbergsteige 120,48.765066314731,9.1420831670576
+2025-01-07T00:32:09,2025-01-07,2,0,Sonstiges,Hofgärten 8A,48.735490780268,9.1808537169704
+2025-01-07T00:32:09,2025-01-07,2,0,Wilder Müll,In der Nähe von Altglas-Container (Lindenfelsstraße / Schlotterbeckstraße),48.785223026681,9.2500493080768
+2025-01-07T00:32:09,2025-01-07,2,0,Ampel,Marconistraße 25,48.832240511135,9.1575874065459
+2025-01-07T00:32:09,2025-01-07,2,0,Straße - Verschmutzung,Poststraße 62,48.79441448718,9.2125047524845
+2025-01-07T00:32:09,2025-01-07,2,0,Wilder Müll,Weimarstraße 21,48.775746404832,9.1666197408787
+2025-01-07T00:32:09,2025-01-07,2,0,Wilder Müll,In der Nähe von Wallensteinstraße 1A,48.841483769599,9.2077069863471
+2025-01-07T00:32:09,2025-01-07,2,0,Begrünung,Rusenschloßstraße 51,48.803617802444,9.1491223437989
+2025-01-07T00:32:09,2025-01-07,2,0,Straßenbeleuchtung,In der Nähe von Marbacher Straße 30,48.832193524583,9.1762212571617
+2025-01-07T00:32:09,2025-01-07,2,0,Wilder Müll,Breitscheidstraße 20,48.778882452316,9.1662815876587
+2025-01-07T00:32:09,2025-01-07,2,0,Sonstiges,Hagenwiesenstraße 11,48.703460856591,9.2097158876603
+2025-01-07T00:32:09,2025-01-07,2,0,Wilder Müll,Gutenbergstraße 107,48.770326182912,9.1541272878646
