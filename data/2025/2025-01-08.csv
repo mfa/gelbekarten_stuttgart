@@ -1,0 +1,41 @@
+first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,category,location,lat,lon
+2025-01-08T00:32:01,2025-01-08,3,0,Straßenbeleuchtung,Am Wolfersberg 11,48.819101216136,9.2014248652472
+2025-01-08T00:32:01,2025-01-08,3,0,Wilder Müll,In der Nähe von Altglas-Container (Korntaler Straße / Mercatorweg),48.841896578923,9.1446464959559
+2025-01-08T00:32:01,2025-01-08,3,0,Wilder Müll,Stammheimer Straße 107,48.838309210647,9.1601412290844
+2025-01-08T00:32:01,2025-01-08,3,0,Wilder Müll,In der Nähe von Wallensteinstraße 1,48.841446215132,9.207867590907
+2025-01-08T00:32:01,2025-01-08,3,0,Verkehrszeichen,Möhringer Landstraße 39A,48.729932093156,9.1176820086351
+2025-01-08T00:32:01,2025-01-08,3,0,Straßeneinlauf - verstopft,In der Nähe von Walchenseestraße 57,48.833139966133,9.2243196375677
+2025-01-08T00:32:01,2025-01-08,3,0,Gehweg - Verschmutzung,In der Nähe von Walchenseestraße 57,48.832709601319,9.2243486032295
+2025-01-08T00:32:01,2025-01-08,3,0,Sonstiges,In der Nähe von Kapellenweg 34,48.832497599339,9.2220166625842
+2025-01-08T00:32:01,2025-01-08,3,0,Wilder Müll,In der Nähe von Kapellenweg 71,48.832087616918,9.2214913238683
+2025-01-08T00:32:01,2025-01-08,3,0,Gehweg - Verschmutzung,In der Nähe von Kapellenweg 91,48.8311523281,9.2205214334871
+2025-01-08T00:32:01,2025-01-08,3,0,Ampel,In der Nähe von Pragstraße 4,48.805491097136,9.2100809028094
+2025-01-08T00:32:01,2025-01-08,3,0,Gehweg - Schäden,Im Kaisemer 12,48.788128588578,9.1794226995503
+2025-01-08T00:32:01,2025-01-08,3,0,Wilder Müll,Hofener Straße 26,48.809596753926,9.2188477715123
+2025-01-08T00:32:01,2025-01-08,3,0,Straße - Verschmutzung,Lüglensheidestraße 41,48.8312106,9.2247093
+2025-01-08T00:32:01,2025-01-08,3,0,Wilder Müll,Schlosserstraße 39,48.767879122245,9.1732401871869
+2025-01-08T00:32:01,2025-01-08,3,0,Wilder Müll,Rechbergstraße 6,48.786262533722,9.2034307727786
+2025-01-08T00:32:01,2025-01-08,3,0,Wilder Müll,Lindenfelsstraße 39,48.785109680592,9.2498753146727
+2025-01-08T00:32:01,2025-01-08,3,0,Straßeneinlauf - verstopft,In der Nähe von Industriestraße 50,48.723798284915,9.1238732154651
+2025-01-08T00:32:01,2025-01-08,3,0,Wilder Müll,In der Nähe von Altglas-Container (Normannstraße / Kaisersbacher Straße),48.807849523974,9.2496869341034
+2025-01-08T00:32:01,2025-01-08,3,0,Gefahrenstelle,In der Nähe von Fasanenhofstraße 20,48.711886780218,9.1627320784502
+2025-01-08T00:32:01,2025-01-08,3,0,Straßeneinlauf - verstopft,"In der Nähe von Innerer Hohlweg, Gew. 4",48.848245861697,9.2270067851301
+2025-01-08T00:32:01,2025-01-08,3,0,Gefahrenstelle,"In der Nähe von Innerer Hohlweg, Gew. 4",48.848921965924,9.226526440953
+2025-01-08T00:32:01,2025-01-08,3,0,Wilder Müll,Unterländer Straße 29,48.831850297345,9.1725204259436
+2025-01-08T00:32:01,2025-01-08,3,0,Sonstiges,Gymnasiumstraße 1,48.775756261996,9.1754450410547
+2025-01-08T00:32:01,2025-01-08,3,0,Wilder Müll,Kapellenweg 43,48.83265460154,9.2228453190237
+2025-01-08T00:32:01,2025-01-08,3,0,Sonstiges,In der Nähe von Fasanenhofstraße 16,48.712222621507,9.1630436503079
+2025-01-08T00:32:01,2025-01-08,3,0,Gehweg - Verschmutzung,In der Nähe von Gerätespielfläche (Fasanenhofstraße/Janusz-Korczak-Weg),48.70997978037,9.1530682511219
+2025-01-08T00:32:01,2025-01-08,3,0,Radweg - Scherben,In der Nähe von Markus-Schleicher-Straße 21C,48.711762273829,9.1552936206139
+2025-01-08T00:32:01,2025-01-08,3,0,Straßenbeleuchtung,Burgenlandstraße 79,48.810485837516,9.1594669297088
+2025-01-08T00:32:01,2025-01-08,3,0,Gefahrenstelle,In der Nähe von St.-Helens-Steg,48.805818311501,9.1754145785988
+2025-01-08T00:32:01,2025-01-08,3,0,Gehweg - Verschmutzung,Kniebisstraße 22,48.7836449,9.2048315
+2025-01-08T00:32:01,2025-01-08,3,0,Straßenbeleuchtung,In der Nähe von Deckerstraße 43,48.8005606,9.2251513
+2025-01-08T00:32:01,2025-01-08,3,0,Kanaldeckel,In der Nähe von Deckerstraße 35,48.800849420251,9.2239672600137
+2025-01-08T00:32:01,2025-01-08,3,0,Sonstiges,In der Nähe von Deckerstraße 41,48.800471173834,9.2248192290671
+2025-01-08T00:32:01,2025-01-08,3,0,Sonstiges,In der Nähe von Fasanenhofstraße 161,48.709936791087,9.153436754531
+2025-01-08T00:32:01,2025-01-08,3,0,Straßenbeleuchtung,Tellstraße 6,48.83668374285,9.1645513399588
+2025-01-08T00:32:01,2025-01-08,3,0,Ampel,Haldenstraße 52,48.809989929011,9.2106092525107
+2025-01-08T00:32:01,2025-01-08,3,0,Schlagloch,"In der Nähe von Spitalwald Sillenbuch (Spitalwald, Gew.)",48.750402735272,9.2012197274372
+2025-01-08T00:32:01,2025-01-08,3,0,Straße - Verschmutzung,In der Nähe von Rückertstraße 1,48.77387665523,9.1466062567418
+2025-01-08T00:32:01,2025-01-08,3,0,Wilder Müll,In der Nähe von Ludwigsburger Straße 211,48.836982985518,9.1757566598453
