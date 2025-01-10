@@ -46,3 +46,9 @@ first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,categ
 2025-01-10T07:15:30,2025-01-10,5,7,Sonstiges,Richterstraße 16,48.727286796326,9.1491548782947
 2025-01-10T08:16:45,2025-01-10,5,8,Ampel,"In der Nähe von Im Elsental, Gew. 4/2",48.744946993417,9.1239845607282
 2025-01-10T08:16:45,2025-01-10,5,8,Gehweg - Verschmutzung,Leonhardsplatz 25,48.772583429147,9.1795034027796
+2025-01-10T09:15:48,2025-01-10,5,9,Gefahrenstelle,Taunusstraße 33,48.813665936413,9.1422461916664
+2025-01-10T09:15:48,2025-01-10,5,9,Straße - Schäden,In der Nähe von Wagrainstraße 19,48.833415593811,9.2198313231826
+2025-01-10T09:15:48,2025-01-10,5,9,Gehweg - Verschmutzung,In der Nähe von Altkleider-Container (Möwenweg / Seeblickweg),48.832941350459,9.2170890958521
+2025-01-10T09:15:48,2025-01-10,5,9,Sonstiges,In der Nähe von Altkleider-Container (Möwenweg / Seeblickweg),48.832801031475,9.2171078764826
+2025-01-10T09:15:48,2025-01-10,5,9,Sonstiges,In der Nähe von Möwenweg 10,48.8360677799,9.2215603631811
+2025-01-10T09:15:48,2025-01-10,5,9,Gehweg - Schäden,In der Nähe von Möwenweg 24,48.835357532033,9.2204778748105
