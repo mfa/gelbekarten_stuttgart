@@ -39,3 +39,7 @@ first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,categ
 2025-01-11T00:32:14,2025-01-11,6,0,Ampel,In der Nähe von Haldenstraße 52,48.81010000718,9.2105862412939
 2025-01-11T00:32:14,2025-01-11,6,0,Verkehrszeichen,In der Nähe von Aulendorfer Straße 31,48.727540554951,9.2043104249508
 2025-01-11T00:32:14,2025-01-11,6,0,Verkehrszeichen,In der Nähe von Margueritenweg 9,48.738392767631,9.1045546384136
+2025-01-11T07:14:58,2025-01-11,6,7,Sonstiges,Paracelsusstraße 44,48.706826596274,9.2106263389204
+2025-01-11T07:14:58,2025-01-11,6,7,Wilder Müll,In der Nähe von Gundelsheimer Straße 18,48.833217240496,9.1946105473978
+2025-01-11T07:14:58,2025-01-11,6,7,Sonstiges,In der Nähe von Gundelsheimer Straße 18,48.833099183118,9.1945066304062
+2025-01-11T07:14:58,2025-01-11,6,7,Wilder Müll,In der Nähe von Altglas-Container (Schozacher Straße / Fleiner Straße),48.83265783653,9.184870820605
