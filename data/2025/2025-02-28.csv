@@ -55,3 +55,7 @@ first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,categ
 2025-02-28T10:15:50,2025-02-28,5,10,SSB Haltestelle,In der Nähe von Kirchheimer Straße 120,48.741181928692,9.218738248513
 2025-02-28T10:15:50,2025-02-28,5,10,Wilder Müll,In der Nähe von Düsseldorfer Straße 3,48.8132142,9.2059523
 2025-02-28T10:15:50,2025-02-28,5,10,Sonstiges,Wilhelmstraße (Ca),48.803915058019,9.216875593751
+2025-02-28T11:15:00,2025-02-28,5,11,Wilder Müll,Eisenbahnstraße,48.802574920125,9.2118991699955
+2025-02-28T11:15:00,2025-02-28,5,11,Sonstiges,In der Nähe von Grubenäcker 51,48.802890025612,9.1054221646053
+2025-02-28T11:15:00,2025-02-28,5,11,Straße - Schäden,In der Nähe von Wagenburgstraße 166,48.780754643727,9.2106254503234
+2025-02-28T11:15:00,2025-02-28,5,11,Wilder Müll,Urbanstraße,48.784529580224,9.1910084189295
