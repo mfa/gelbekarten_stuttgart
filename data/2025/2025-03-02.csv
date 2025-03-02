@@ -44,3 +44,7 @@ first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,categ
 2025-03-02T09:15:45,2025-03-02,7,9,Straßenbeleuchtung,Höhenrandstraße,48.732695265632,9.1249096939807
 2025-03-02T09:15:45,2025-03-02,7,9,Wilder Müll,In der Nähe von Weberstraße 21,48.772153052097,9.1805768032048
 2025-03-02T09:15:45,2025-03-02,7,9,Wilder Müll,In der Nähe von Katharinenstraße 10,48.771730751495,9.1804556898439
+2025-03-02T10:15:38,2025-03-02,7,10,Sonstiges,In der Nähe von Eduard-Pfeiffer-Straße 83,48.786392574973,9.1719429896649
+2025-03-02T10:15:38,2025-03-02,7,10,Wilder Müll,In der Nähe von Buchauer Straße 34/1,48.7708702,9.240139
+2025-03-02T10:15:38,2025-03-02,7,10,Straße - Verschmutzung,Maximilianstraße,48.793772879831,9.2555187920449
+2025-03-02T10:15:38,2025-03-02,7,10,Sonstiges,Maximilianstraße,48.793911170174,9.256025615586
