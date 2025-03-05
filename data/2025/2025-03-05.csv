@@ -39,3 +39,5 @@ first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,categ
 2025-03-05T00:33:04,2025-03-05,3,0,Straße - Verschmutzung,In der Nähe von Filderstraße 61,48.76357029586,9.1687619437319
 2025-03-05T00:33:04,2025-03-05,3,0,Wilder Müll,In der Nähe von Sophie-Tschorn-Straße 79,48.81853531912,9.2380461947146
 2025-03-05T00:33:04,2025-03-05,3,0,Sonstiges,Orionweg,48.718066464528,9.1175183746429
+2025-03-05T06:16:45,2025-03-05,3,6,Straßenbeleuchtung,Bernhauser Straße,48.699356680953,9.2156514074104
+2025-03-05T06:16:45,2025-03-05,3,6,Sonstiges,Eichhörnlesweg,48.803255,9.1066191
