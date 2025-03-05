@@ -41,3 +41,10 @@ first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,categ
 2025-03-05T00:33:04,2025-03-05,3,0,Sonstiges,Orionweg,48.718066464528,9.1175183746429
 2025-03-05T06:16:45,2025-03-05,3,6,Straßenbeleuchtung,Bernhauser Straße,48.699356680953,9.2156514074104
 2025-03-05T06:16:45,2025-03-05,3,6,Sonstiges,Eichhörnlesweg,48.803255,9.1066191
+2025-03-05T07:15:40,2025-03-05,3,7,Wilder Müll,Alexanderstraße,48.773049655738,9.1861604606935
+2025-03-05T07:15:40,2025-03-05,3,7,Gehweg - Schäden,Hauptstätter Straße,48.769648749036,9.1749474368476
+2025-03-05T07:15:40,2025-03-05,3,7,SSB Haltestelle,In der Nähe von Heilbronner Straße 43,48.7904844,9.1800364
+2025-03-05T07:15:40,2025-03-05,3,7,Straßenbeleuchtung,Königstraße,48.777175499642,9.1768383425452
+2025-03-05T07:15:40,2025-03-05,3,7,Gehweg - Verschmutzung,In der Nähe von Hallenbad Zuffenhausen (Haldenrainstraße 31),48.830302066048,9.1792715041048
+2025-03-05T07:15:40,2025-03-05,3,7,Wilder Müll,Nordbahnhofstraße,48.7982951876,9.1899168463244
+2025-03-05T07:15:40,2025-03-05,3,7,SSB Haltestelle,In der Nähe von Altkleider-Container (Rohrackerstraße Friedhof),48.758378086441,9.2363086047626
