@@ -1,0 +1,41 @@
+first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,category,location,lat,lon
+2025-03-07T00:33:15,2025-03-07,5,0,Wilder Müll,In der Nähe von Hessenlauweg 8,48.746201984325,9.1135479702961
+2025-03-07T00:33:15,2025-03-07,5,0,Gefahrenstelle,In der Nähe von Taxistand Zuffenhausen Kelter (Haldenrainstraße),48.8304332,9.1773962
+2025-03-07T00:33:15,2025-03-07,5,0,Wilder Müll,In der Nähe von Mönchsbergstraße 29,48.8293676,9.1772334
+2025-03-07T00:33:15,2025-03-07,5,0,Wilder Müll,In der Nähe von Haldenrainstraße 35,48.830953309071,9.1798617377969
+2025-03-07T00:33:15,2025-03-07,5,0,Wilder Müll,In der Nähe von Altkleider-Container (Haldenrainstraße / Kelterplatz Parkplatz),48.829971689315,9.1770517932443
+2025-03-07T00:33:15,2025-03-07,5,0,Wilder Müll,In der Nähe von Hohenloher Straße 8,48.8300007,9.1757754
+2025-03-07T00:33:15,2025-03-07,5,0,Verkehrszeichen,In der Nähe von Filderhauptstraße 209,48.716394550904,9.1969733082089
+2025-03-07T00:33:15,2025-03-07,5,0,Ampel,In der Nähe von Veitstraße 2,48.842342946853,9.2300075399618
+2025-03-07T00:33:15,2025-03-07,5,0,Sonstiges,Schwarzbachstraße,48.718309243842,9.1084643790095
+2025-03-07T00:33:15,2025-03-07,5,0,Sonstiges,Hedelfinger Straße,48.76099187861,9.2537969283001
+2025-03-07T00:33:15,2025-03-07,5,0,Verkehrszeichen,In der Nähe von Sulzbachgasse 2,48.804575986935,9.2146177312689
+2025-03-07T00:33:15,2025-03-07,5,0,Wilder Müll,Rohrackerstraße,48.756952135324,9.2499261147418
+2025-03-07T00:33:15,2025-03-07,5,0,Sonstiges,Lehmfeldstraße,48.820153020172,9.2394371636331
+2025-03-07T00:33:15,2025-03-07,5,0,Wilder Müll,Duisburger Straße,48.809084702919,9.213009375979
+2025-03-07T00:33:15,2025-03-07,5,0,Gehweg - Verschmutzung,In der Nähe von Rosenaustraße 31,48.809581110262,9.2113558664029
+2025-03-07T00:33:15,2025-03-07,5,0,Wilder Müll,Wagenburgstraße,48.780650701748,9.2024960710743
+2025-03-07T00:33:15,2025-03-07,5,0,Sonstiges,In der Nähe von Weißenburgstraße 4A,48.7687106,9.1756661
+2025-03-07T00:33:15,2025-03-07,5,0,Sonstiges,Werastraße,48.78611698694,9.1939277859519
+2025-03-07T00:33:15,2025-03-07,5,0,Wilder Müll,In der Nähe von Rotweg 21,48.8342817,9.1808979
+2025-03-07T00:33:15,2025-03-07,5,0,Wilder Müll,In der Nähe von Rotweg 21,48.83443,9.1806411
+2025-03-07T00:33:15,2025-03-07,5,0,Sonstiges,In der Nähe von Tulpenstraße 14,48.762900785025,9.1771917530809
+2025-03-07T00:33:15,2025-03-07,5,0,Straßenbeleuchtung,In der Nähe von Bockelstraße 93,48.74291573259,9.2304249693116
+2025-03-07T00:33:15,2025-03-07,5,0,Gehweg - Verschmutzung,In der Nähe von Reinsburgstraße 17,48.771258580722,9.1690128191347
+2025-03-07T00:33:15,2025-03-07,5,0,Wilder Müll,In der Nähe von Lehmfeldstraße 29,48.820258414051,9.2395632700392
+2025-03-07T00:33:15,2025-03-07,5,0,Wilder Müll,"In der Nähe von Im Birkenwald, Gew. 38",48.829307770039,9.1465567978049
+2025-03-07T00:33:15,2025-03-07,5,0,Gefahrenstelle,In der Nähe von Marbacher Straße 10E,48.8305378,9.1774532
+2025-03-07T00:33:15,2025-03-07,5,0,Sonstiges,Sonnenbergstraße,48.767255971571,9.1918138518904
+2025-03-07T00:33:15,2025-03-07,5,0,Wilder Müll,In der Nähe von Gundelsheimer Straße 18,48.833226050189,9.1945931683217
+2025-03-07T00:33:15,2025-03-07,5,0,Gehweg - Verschmutzung,In der Nähe von Wildbader Straße 16,48.807766277993,9.2209065841196
+2025-03-07T00:33:15,2025-03-07,5,0,Ampel,In der Nähe von Stuttgarter Straße 172,48.810195466423,9.1505213733447
+2025-03-07T00:33:15,2025-03-07,5,0,Sonstiges,Gaußstraße,48.779550989487,9.1441371180761
+2025-03-07T00:33:15,2025-03-07,5,0,Sonstiges,Regenpfeiferweg,48.830095226613,9.2342113994737
+2025-03-07T00:33:15,2025-03-07,5,0,Sonstiges,Gablenberger Hauptstraße,48.776623735084,9.1846056984253
+2025-03-07T00:33:15,2025-03-07,5,0,Straßenbeleuchtung,Paprikastraße,48.741475075748,9.2302085221382
+2025-03-07T00:33:15,2025-03-07,5,0,Gehweg - Verschmutzung,Ostendstraße,48.782448761972,9.208179825274
+2025-03-07T00:33:15,2025-03-07,5,0,Straße - Schäden,In der Nähe von Altglas-Container (Johannesstraße / Leuschnerstraße),48.775778328991,9.1630110152407
+2025-03-07T00:33:15,2025-03-07,5,0,Straßenbeleuchtung,In der Nähe von Vaihinger Landstraße 13,48.776930397671,9.1276291203559
+2025-03-07T00:33:15,2025-03-07,5,0,Sonstiges,Ditzinger Straße,48.815870388064,9.1087836665967
+2025-03-07T00:33:15,2025-03-07,5,0,Straßenbeleuchtung,Heckenrosenweg,48.75128023839,9.2392865952982
+2025-03-07T00:33:15,2025-03-07,5,0,Sonstiges,In der Nähe von Gerätespielfläche (Immenhofer-/ Zellerstraße),48.762424837422,9.1773076669532
