@@ -40,3 +40,8 @@ first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,categ
 2025-03-13T00:33:45,2025-03-13,4,0,Ampel,In der Nähe von Mercedesstraße 143/5,48.787479249179,9.2440297781887
 2025-03-13T00:33:45,2025-03-13,4,0,Sonstiges,In der Nähe von Ulmer Straße 358,48.771855442573,9.2438774589962
 2025-03-13T06:16:43,2025-03-13,4,6,Radweg - Scherben,In der Nähe von Mannheimer Straße 29,48.810205408736,9.1970704023765
+2025-03-13T07:15:31,2025-03-13,4,7,Wilder Müll,In der Nähe von Möhringer Landstraße 104,48.729396476544,9.1256770395746
+2025-03-13T07:15:31,2025-03-13,4,7,Sonstiges,Eberhardstraße,48.773090257859,9.1775317266419
+2025-03-13T07:15:31,2025-03-13,4,7,Straßenbeleuchtung,In der Nähe von Möhringer Landstraße 108,48.729227148081,9.126357089239
+2025-03-13T07:15:31,2025-03-13,4,7,Gehweg - Verschmutzung,In der Nähe von Filderhofstraße 17,48.727815626783,9.1153355980528
+2025-03-13T07:15:31,2025-03-13,4,7,Radweg - Verschmutzung,In der Nähe von Rangierbahnhof 25,48.78526717118,9.2456591843261
