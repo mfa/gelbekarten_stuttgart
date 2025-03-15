@@ -57,3 +57,7 @@ first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,categ
 2025-03-15T10:15:53,2025-03-15,6,10,Straße - Verschmutzung,Bergheimer Straße,48.813859667576,9.1081204314452
 2025-03-15T10:15:53,2025-03-15,6,10,Gefahrenstelle,In der Nähe von Senefelderstraße 1,48.769887489975,9.1645322098754
 2025-03-15T10:15:53,2025-03-15,6,10,Wilder Müll,In der Nähe von Altglas-Container (Großglocknerstraße / Mettinger Straße),48.778771,9.2524073
+2025-03-15T11:14:35,2025-03-15,6,11,Gehweg - Verschmutzung,In der Nähe von Johannesstraße 37,48.777390137276,9.1615301020397
+2025-03-15T11:14:35,2025-03-15,6,11,Sonstiges,Rohrackerstraße,48.757461907904,9.2386084415713
+2025-03-15T11:14:35,2025-03-15,6,11,Wilder Müll,Mönchstraße,48.792589956801,9.1854975050807
+2025-03-15T11:14:35,2025-03-15,6,11,Gefahrenstelle,Olnhauser Straße,48.830880979402,9.1883367364604
