@@ -40,3 +40,7 @@ first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,categ
 2025-04-05T00:33:35,2025-04-05,6,0,Ampel,In der Nähe von Behringstraße 1,48.721638100771,9.1063090514345
 2025-04-05T00:33:35,2025-04-05,6,0,Gehweg - Verschmutzung,Oppenheimer Straße,48.81060405211,9.1215209421218
 2025-04-05T06:16:28,2025-04-05,6,6,Sonstiges,Steubenstraße,48.796059985615,9.2079910434592
+2025-04-05T07:15:23,2025-04-05,6,7,Sonstiges,In der Nähe von Kaindlstraße 30,48.7522304,9.0865664
+2025-04-05T07:15:23,2025-04-05,6,7,Gehweg - Verschmutzung,Robert-Koch-Straße,48.726108893392,9.1083859683896
+2025-04-05T07:15:23,2025-04-05,6,7,Wilder Müll,Wagenburgstraße,48.7810704701,9.2092358914239
+2025-04-05T07:15:23,2025-04-05,6,7,Wilder Müll,Bergstraße,48.778093024116,9.2091146238577
