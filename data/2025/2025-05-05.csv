@@ -48,3 +48,7 @@ first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,categ
 2025-05-05T07:15:58,2025-05-05,1,7,Straße - Verschmutzung,Alte Untertürkheimer Straße,48.792841956696,9.239157405126
 2025-05-05T07:15:58,2025-05-05,1,7,Begrünung,In der Nähe von Wagenburgstraße 111,48.780804496774,9.2040585835159
 2025-05-05T07:15:58,2025-05-05,1,7,Wilder Müll,In der Nähe von Barbarossastraße 51,48.790415040781,9.2574607030018
+2025-05-05T08:17:00,2025-05-05,1,8,Straßeneinlauf - verstopft,In der Nähe von Heimsche Gasse 1,48.804446916148,9.21474944856
+2025-05-05T08:17:00,2025-05-05,1,8,Begrünung,In der Nähe von Danziger Straße 8,48.740895751169,9.1484408836828
+2025-05-05T08:17:00,2025-05-05,1,8,Straße - Schäden,Schwarzwaldstraße,48.740354926664,9.1294035268942
+2025-05-05T08:17:00,2025-05-05,1,8,Sonstiges,Marktplatz (M),48.774798521316,9.178163841504
