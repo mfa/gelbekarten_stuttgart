@@ -1,0 +1,41 @@
+first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,category,location,lat,lon
+2025-05-07T00:36:10,2025-05-07,3,0,Gehweg - Verschmutzung,In der Nähe von Gnesener Straße 87A,48.813162459304,9.227679719811
+2025-05-07T00:36:10,2025-05-07,3,0,Gefahrenstelle,Werastraße,48.783753850167,9.1922578814221
+2025-05-07T00:36:10,2025-05-07,3,0,Wilder Müll,Nauheimer Straße,48.806288946123,9.2221428464737
+2025-05-07T00:36:10,2025-05-07,3,0,Bäder,In der Nähe von Höhenfreibad Killesberg (Beim Höhenfreibad 37),48.807959370871,9.1700030193915
+2025-05-07T00:36:10,2025-05-07,3,0,Wilder Müll,In der Nähe von Hindelanger Straße 19,48.782873359907,9.2517773828654
+2025-05-07T00:36:10,2025-05-07,3,0,Wilder Müll,In der Nähe von Altglas-Container (Lindenfelsstraße / Schlotterbeckstraße),48.785193049975,9.2500945168849
+2025-05-07T00:36:10,2025-05-07,3,0,Straße - Schäden,In der Nähe von Rangierbahnhof 25,48.785062385921,9.2459309910423
+2025-05-07T00:36:10,2025-05-07,3,0,Wilder Müll,In der Nähe von Lauftreff Litfasssäule Ecke Nißlestraße/Karl-Schurz-Straße (Karl-Schurz-Straße),48.797385030414,9.2084815922771
+2025-05-07T00:36:10,2025-05-07,3,0,Sonstiges,Segelfalterstraße,48.848501990461,9.1661712165685
+2025-05-07T00:36:10,2025-05-07,3,0,Sonstiges,In der Nähe von Krailenshaldenstraße 30,48.818364207361,9.178191933432
+2025-05-07T00:36:10,2025-05-07,3,0,Wilder Müll,In der Nähe von Altglas-Container (Kreuznacher Straße / Carre),48.801697668987,9.2224566687534
+2025-05-07T00:36:10,2025-05-07,3,0,Wilder Müll,In der Nähe von Steinheimer Straße 24,48.831345137952,9.1789878496933
+2025-05-07T00:36:10,2025-05-07,3,0,Wilder Müll,In der Nähe von Steinheimer Straße 24,48.831788288921,9.1791870290063
+2025-05-07T00:36:10,2025-05-07,3,0,Wilder Müll,In der Nähe von Boschwerk 6C,48.82272519,9.15919063
+2025-05-07T00:36:10,2025-05-07,3,0,Gefahrenstelle,In der Nähe von Rotebühlstraße 50,48.772954273913,9.1668995047515
+2025-05-07T00:36:10,2025-05-07,3,0,Straßenbeleuchtung,In der Nähe von Seeburger Straße 9,48.781058170168,9.221715494811
+2025-05-07T00:36:10,2025-05-07,3,0,Sonstiges,Richard-Schmid-Straße,48.736712266986,9.2225636326682
+2025-05-07T00:36:10,2025-05-07,3,0,Gehweg - Schäden,In der Nähe von Konrad-Adenauer-Straße 3A,48.778293050362,9.1843076525708
+2025-05-07T00:36:10,2025-05-07,3,0,Wilder Müll,In der Nähe von Wildparkstraße 50,48.770551574085,9.1056352780576
+2025-05-07T00:36:10,2025-05-07,3,0,Ampel,In der Nähe von Charlottenplatz 6,48.775514378248,9.1831333177766
+2025-05-07T00:36:10,2025-05-07,3,0,Schlagloch,Fuchswaldstraße,48.744480392802,9.1326651145295
+2025-05-07T00:36:10,2025-05-07,3,0,Gefahrenstelle,In der Nähe von Aalstraße 2,48.846968510019,9.2189389130363
+2025-05-07T00:36:10,2025-05-07,3,0,Verkehrszeichen,Föhrichstraße,48.810522554334,9.1453018789961
+2025-05-07T00:36:10,2025-05-07,3,0,Wilder Müll,In der Nähe von Rosensteinstraße 19,48.794382470358,9.1922843713044
+2025-05-07T00:36:10,2025-05-07,3,0,Radweg - Scherben,In der Nähe von Burgenlandstraße 65,48.811029752256,9.160925039763
+2025-05-07T00:36:10,2025-05-07,3,0,Ampel,In der Nähe von Neue Weinsteige 140,48.7573050678,9.1787864723059
+2025-05-07T00:36:10,2025-05-07,3,0,Sonstiges,Böcklerstraße,48.760885263361,9.1541478966848
+2025-05-07T00:36:10,2025-05-07,3,0,Wilder Müll,Abelsbergstraße,48.789100002287,9.2113523016593
+2025-05-07T00:36:10,2025-05-07,3,0,Gehweg - Verschmutzung,Marienbader Straße,48.802742465194,9.2278196135971
+2025-05-07T00:36:10,2025-05-07,3,0,Gehweg - Schäden,In der Nähe von Stresemannstraße 31/2,48.804719503119,9.1731135170422
+2025-05-07T00:36:10,2025-05-07,3,0,Wilder Müll,In der Nähe von Altglas-Container (Korntaler Straße / Mercatorweg),48.841841008104,9.1447345658499
+2025-05-07T00:36:10,2025-05-07,3,0,Verkehrszeichen,Feuerbacher Weg,48.805880036585,9.1593842303359
+2025-05-07T00:36:10,2025-05-07,3,0,Wilder Müll,In der Nähe von Burgholzstraße 33C,48.822124556862,9.2068251778987
+2025-05-07T00:36:10,2025-05-07,3,0,Gehweg - Verschmutzung,In der Nähe von Lilienthalstraße 7,48.783500980436,9.1486422533406
+2025-05-07T00:36:10,2025-05-07,3,0,Gehweg - Verschmutzung,In der Nähe von Scillawaldstraße 7,48.834680843199,9.2208757234285
+2025-05-07T00:36:10,2025-05-07,3,0,Sonstiges,Bäckergasse,48.804461539773,9.2132689898639
+2025-05-07T00:36:10,2025-05-07,3,0,Wilder Müll,Reichenbachstraße,48.798407917384,9.2224484713729
+2025-05-07T00:36:10,2025-05-07,3,0,Gefahrenstelle,Wildunger Straße,48.803000632995,9.224620476832
+2025-05-07T00:36:10,2025-05-07,3,0,Sonstiges,Rümelinstraße,48.798783498354,9.1937995855288
+2025-05-07T00:36:10,2025-05-07,3,0,Wilder Müll,In der Nähe von Filderbahnplatz 25/1,48.73127956866,9.1490594099311
