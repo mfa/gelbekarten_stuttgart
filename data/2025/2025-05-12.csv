@@ -59,3 +59,5 @@ first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,categ
 2025-05-12T08:16:49,2025-05-12,1,8,Poller,Herderstraße,48.774854356445,9.1447225433445
 2025-05-12T09:16:16,2025-05-12,1,9,Wilder Müll,Feuerbacher-Tal-Straße,48.80845594815,9.1571451280118
 2025-05-12T09:16:16,2025-05-12,1,9,Straßenbeleuchtung,Edisonstraße,48.839746642966,9.1615086389431
+2025-05-12T10:16:21,2025-05-12,1,10,Ampel,In der Nähe von Charlottenstraße 14,48.77440512695,9.1854555746311
+2025-05-12T10:16:21,2025-05-12,1,10,Gehweg - Verschmutzung,Vogelsangstraße,48.773265807218,9.1556606362133
