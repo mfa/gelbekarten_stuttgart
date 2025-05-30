@@ -70,3 +70,7 @@ first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,categ
 2025-05-30T14:16:00,2025-05-30,5,14,Treppe,Engelboldstraße,48.739219926018,9.1307335189951
 2025-05-30T14:16:00,2025-05-30,5,14,Gefahrenstelle,In der Nähe von Bahnhofstraße 29,48.80177900792,9.2187501704761
 2025-05-30T16:16:31,2025-05-30,5,16,Gefahrenstelle,Sonnenbergstraße,48.77133731763,9.1880731056338
+2025-05-30T17:15:33,2025-05-30,5,17,Wilder Müll,In der Nähe von Boschwerk 6C,48.822574367459,9.1592563530398
+2025-05-30T17:15:33,2025-05-30,5,17,Gefahrenstelle,In der Nähe von Skulptur Der Mönch von Münster (Jagststraße / Schussengasse),48.819926934961,9.2244840364393
+2025-05-30T17:15:33,2025-05-30,5,17,Wilder Müll,In der Nähe von Volkerstraße 28,48.804925600792,9.1802474886131
+2025-05-30T17:15:33,2025-05-30,5,17,Sonstiges,Sickstraße,48.791064361809,9.2095769750598
