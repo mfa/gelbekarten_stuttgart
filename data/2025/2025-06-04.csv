@@ -94,3 +94,6 @@ first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,categ
 2025-06-04T20:15:34,2025-06-04,3,20,Gefahrenstelle,In der Nähe von Kantstraße 16,48.778951086444,9.1508404139748
 2025-06-04T20:15:34,2025-06-04,3,20,Straßenbeleuchtung,In der Nähe von Steckfeldstraße 13,48.714346,9.2041403
 2025-06-04T21:15:12,2025-06-04,3,21,Begrünung,Lindenfelsstraße,48.784297126198,9.2512189940505
+2025-06-04T22:15:44,2025-06-04,3,22,Wilder Müll,Steubenstraße,48.796050424211,9.2083041820564
+2025-06-04T22:15:44,2025-06-04,3,22,Sonstiges,Steubenstraße,48.796050424211,9.2083041820564
+2025-06-04T22:15:44,2025-06-04,3,22,Wilder Müll,In der Nähe von In der Au 9,48.776233618174,9.249553788389
