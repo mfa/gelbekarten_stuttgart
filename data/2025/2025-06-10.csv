@@ -64,3 +64,7 @@ first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,categ
 2025-06-10T14:16:07,2025-06-10,2,14,Ampel,In der Nähe von Alexanderstraße 34,48.773911508253,9.1877100623744
 2025-06-10T14:16:07,2025-06-10,2,14,Wilder Müll,Willy-Brandt-Straße,48.783031943589,9.1881576362844
 2025-06-10T15:16:14,2025-06-10,2,15,Wilder Müll,In der Nähe von Ötztaler Straße 34,48.782825642725,9.2518320030986
+2025-06-10T16:16:38,2025-06-10,2,16,Gefahrenstelle,Grüneisenstraße,48.773519052039,9.1960433060256
+2025-06-10T16:16:38,2025-06-10,2,16,Sonstiges,In der Nähe von Strombergstraße 10,48.7826917,9.2059926
+2025-06-10T16:16:38,2025-06-10,2,16,Straßeneinlauf - verstopft,In der Nähe von Vermontstraße 4,48.732698438141,9.0867003793871
+2025-06-10T16:16:38,2025-06-10,2,16,Wilder Müll,Düsseldorfer Straße,48.815918417415,9.2105114893875
