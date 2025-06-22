@@ -1,0 +1,41 @@
+first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,category,location,lat,lon
+2025-06-22T00:41:39,2025-06-22,7,0,Wilder Müll,In der Nähe von Klara-Neuburger-Straße 16,48.738978148296,9.2223551081004
+2025-06-22T00:41:39,2025-06-22,7,0,Sonstiges,In der Nähe von Daimlerstraße 8,48.807242560732,9.2184402183599
+2025-06-22T00:41:39,2025-06-22,7,0,Gehweg - Schäden,Johannesstraße,48.779539327738,9.1598044600544
+2025-06-22T00:41:39,2025-06-22,7,0,Wilder Müll,Johannesstraße,48.780448142678,9.1596439984969
+2025-06-22T00:41:39,2025-06-22,7,0,Sonstiges,Johannesstraße,48.781232419141,9.1584622046274
+2025-06-22T00:41:39,2025-06-22,7,0,SSB Haltestelle,Olgastraße,48.7740217,9.1850442
+2025-06-22T00:41:39,2025-06-22,7,0,Sonstiges,Seyfferstraße,48.771250448857,9.1538486461469
+2025-06-22T00:41:39,2025-06-22,7,0,Straßenbeleuchtung,Von-Ditterich-Weg,48.729497320649,9.1510787983291
+2025-06-22T00:41:39,2025-06-22,7,0,Radweg - Scherben,In der Nähe von Epplestraße 6,48.726960546952,9.166503141848
+2025-06-22T00:41:39,2025-06-22,7,0,Sonstiges,Außerhalb Stuttgarts,48.747291970257,9.1495802641096
+2025-06-22T00:41:39,2025-06-22,7,0,Gefahrenstelle,Haußmannstraße,48.784567972873,9.1949428175442
+2025-06-22T00:41:39,2025-06-22,7,0,Wilder Müll,Neuwirtshausstraße,48.835791251187,9.138629478783
+2025-06-22T00:41:39,2025-06-22,7,0,Gefahrenstelle,Königstraße,48.777971388284,9.1781269106949
+2025-06-22T00:41:39,2025-06-22,7,0,Wilder Müll,In der Nähe von Altglas-Container (Korntaler Straße / Mercatorweg),48.841835389928,9.1447877299845
+2025-06-22T00:41:39,2025-06-22,7,0,Gefahrenstelle,Wallmerstraße,48.787557856522,9.2492884472042
+2025-06-22T00:41:39,2025-06-22,7,0,Bäder,In der Nähe von Mineralbad Berg (Am Schwanenplatz 9),48.796008070799,9.2061806801837
+2025-06-22T00:41:39,2025-06-22,7,0,Wilder Müll,In der Nähe von Altglas-Container (Kniebisstraße / Strombergstraße),48.7826175,9.2052675
+2025-06-22T00:41:39,2025-06-22,7,0,Wilder Müll,In der Nähe von Altglas-Container (Sparrhärmlingweg / Am Römerkastell),48.812146505739,9.2063951963355
+2025-06-22T00:41:39,2025-06-22,7,0,Gehweg - Verschmutzung,In der Nähe von Freibergstraße 70,48.822170200279,9.2127365834423
+2025-06-22T00:41:39,2025-06-22,7,0,Gehweg - Verschmutzung,Schmidener Straße,48.815884702872,9.237141992558
+2025-06-22T00:41:39,2025-06-22,7,0,Gehweg - Verschmutzung,Schmidener Straße,48.815983211733,9.2373604066598
+2025-06-22T00:41:39,2025-06-22,7,0,Gehweg - Verschmutzung,In der Nähe von Gablenberger Hauptstraße 37,48.778594253464,9.2072732305333
+2025-06-22T00:41:39,2025-06-22,7,0,Radweg - Schäden,In der Nähe von Neckartalstraße 11,48.80070540379,9.2082129208208
+2025-06-22T00:41:39,2025-06-22,7,0,Begrünung,In der Nähe von Johannes-Krämer-Straße 2,48.742847388102,9.1544254825888
+2025-06-22T00:41:39,2025-06-22,7,0,Wilder Müll,In der Nähe von Altglas-Container (Walchenseestraße / Kapellenweg),48.832968102778,9.2232016731597
+2025-06-22T00:41:39,2025-06-22,7,0,Sonstiges,In der Nähe von Floridastraße 6,48.735288387895,9.0880356427292
+2025-06-22T00:41:39,2025-06-22,7,0,Sonstiges,Mörikestraße,48.769568364517,9.1685235800032
+2025-06-22T00:41:39,2025-06-22,7,0,Gefahrenstelle,In der Nähe von Zeppelinstraße 86A,48.779102353791,9.1477000916846
+2025-06-22T00:41:39,2025-06-22,7,0,Gefahrenstelle,In der Nähe von Steinenhausenstraße 27,48.777789143162,9.1498261137689
+2025-06-22T00:41:39,2025-06-22,7,0,Wilder Müll,Rosensteinstraße,48.79375712866,9.1923914116263
+2025-06-22T00:41:39,2025-06-22,7,0,Gehweg - Verschmutzung,Ludwigstraße,48.775238672499,9.1653943926959
+2025-06-22T00:41:39,2025-06-22,7,0,Gehweg - Verschmutzung,In der Nähe von Friedenaustraße 17,48.787229553924,9.2158234703684
+2025-06-22T00:41:39,2025-06-22,7,0,Gehweg - Verschmutzung,In der Nähe von Spielberger Straße 15,48.836957989597,9.1737243437248
+2025-06-22T00:41:39,2025-06-22,7,0,Gehweg - Verschmutzung,In der Nähe von Kantstraße 5,48.778204262389,9.1501646033732
+2025-06-22T00:41:39,2025-06-22,7,0,Straße - Verschmutzung,In der Nähe von Kantstraße 5,48.778207636726,9.15016115686
+2025-06-22T00:41:39,2025-06-22,7,0,Wilder Müll,In der Nähe von Dürrbachstraße 49,48.760872362227,9.2354710120794
+2025-06-22T00:41:39,2025-06-22,7,0,Begrünung,In der Nähe von Gutenbergstraße 73,48.771339445245,9.1571427228986
+2025-06-22T00:41:39,2025-06-22,7,0,Sonstiges,In der Nähe von Regenpfeiferweg 42/1,48.829913924117,9.2384415836827
+2025-06-22T00:41:39,2025-06-22,7,0,Verkehrszeichen,In der Nähe von Kantstraße 24,48.779282525774,9.1513730472295
+2025-06-22T00:41:39,2025-06-22,7,0,Gehweg - Verschmutzung,In der Nähe von Altglas-Container (Giebelstraße / Sandbuckel),48.807404267735,9.089132900932
