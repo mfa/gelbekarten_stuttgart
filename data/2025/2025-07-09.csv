@@ -59,3 +59,7 @@ first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,categ
 2025-07-09T10:16:34,2025-07-09,3,10,Ampel,Haldenstraße,48.810147886818,9.2105543517595
 2025-07-09T10:16:34,2025-07-09,3,10,Gefahrenstelle,In der Nähe von Wangener Marktplatz 6,48.772248706376,9.2452321357077
 2025-07-09T11:15:41,2025-07-09,3,11,Wilder Müll,In der Nähe von Altglas-Container (Sparrhärmlingweg / Am Römerkastell),48.81232085395,9.2062760465569
+2025-07-09T12:17:30,2025-07-09,3,12,Sonstiges,Böblinger Straße,48.744434012801,9.1338756135047
+2025-07-09T12:17:30,2025-07-09,3,12,Wilder Müll,Hornbergstraße,48.781535180565,9.2157854421948
+2025-07-09T12:17:30,2025-07-09,3,12,Rolltreppe,Seyfferstraße,48.769524247635,9.1550910910291
+2025-07-09T12:17:30,2025-07-09,3,12,Straßenbeleuchtung,Alte Dorfstraße,48.72067656088,9.2112422284054
