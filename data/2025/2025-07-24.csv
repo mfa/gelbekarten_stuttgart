@@ -64,3 +64,7 @@ first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,categ
 2025-07-24T10:16:24,2025-07-24,4,10,Verkehrszeichen,In der Nähe von Juiststraße 2,48.834577175437,9.1404656385075
 2025-07-24T11:15:57,2025-07-24,4,11,Wilder Müll,Pflasteräckerstraße,48.779645617689,9.2111492615448
 2025-07-24T11:15:57,2025-07-24,4,11,Straße - Verschmutzung,In der Nähe von Karl-Benz-Platz 9,48.780649464658,9.2493187057047
+2025-07-24T12:17:41,2025-07-24,4,12,Straße - Schäden,In der Nähe von Stuttgarter Straße 26,48.811348353088,9.1666607287863
+2025-07-24T12:17:41,2025-07-24,4,12,Rolltreppe,Seyfferstraße,48.76959470721,9.155004145515
+2025-07-24T12:17:41,2025-07-24,4,12,Sonstiges,Rotenbergstraße,48.788241907622,9.2132410894907
+2025-07-24T12:17:41,2025-07-24,4,12,Wilder Müll,Heubergstraße,48.7812062963,9.1985643156401
