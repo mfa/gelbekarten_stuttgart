@@ -44,3 +44,6 @@ first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,categ
 2025-08-20T05:16:01,2025-08-20,3,5,Ampel,Kirchheimer Straße,48.740253976267,9.2197843005742
 2025-08-20T06:17:12,2025-08-20,3,6,Verkehrszeichen,In der Nähe von Auerhahnweg 8C,48.80669947304,9.1046787085808
 2025-08-20T06:17:12,2025-08-20,3,6,Verkehrszeichen,Rennstraße,48.813639381844,9.1100268779139
+2025-08-20T07:15:59,2025-08-20,3,7,Gehweg - Verschmutzung,In der Nähe von Schwarenbergstraße 93,48.783853400506,9.2021578543418
+2025-08-20T07:15:59,2025-08-20,3,7,Sonstiges,In der Nähe von Tübinger Straße 90,48.765209030459,9.1685129468195
+2025-08-20T07:15:59,2025-08-20,3,7,Wilder Müll,In der Nähe von Etzelstraße 1/1,48.767577984724,9.1823255940328
