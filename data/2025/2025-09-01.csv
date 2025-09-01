@@ -1,0 +1,41 @@
+first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,category,location,lat,lon
+2025-09-01T00:43:36,2025-09-01,1,0,Gehweg - Verschmutzung,Silberburgstraße,48.775132129958,9.165588662769
+2025-09-01T00:43:36,2025-09-01,1,0,Gehweg - Schäden,Bopserwaldstraße,48.763829615414,9.1856365038225
+2025-09-01T00:43:36,2025-09-01,1,0,Verkehrszeichen,In der Nähe von Calwer Straße 16,48.777492104859,9.1752470420315
+2025-09-01T00:43:36,2025-09-01,1,0,Straßenbeleuchtung,Seyfferstraße,48.768344643549,9.155931212769
+2025-09-01T00:43:36,2025-09-01,1,0,Sonstiges,Wielandstraße,48.777343581468,9.1395845994381
+2025-09-01T00:43:36,2025-09-01,1,0,Verkehrszeichen,Junghansstraße,48.813158618408,9.1772645215862
+2025-09-01T00:43:36,2025-09-01,1,0,Gefahrenstelle,In der Nähe von Obere Paulusstraße 114,48.771013754359,9.1430201097729
+2025-09-01T00:43:36,2025-09-01,1,0,Gehweg - Verschmutzung,Rötestraße,48.770503132328,9.1563325726115
+2025-09-01T00:43:36,2025-09-01,1,0,Gefahrenstelle,In der Nähe von Spielwiese Stadtpark Vaihingen (Emilienstraße),48.72738199548,9.1117649353455
+2025-09-01T00:43:36,2025-09-01,1,0,Sonstiges,In der Nähe von Gerätespielfläche (Markusplatz),48.7646709,9.1732692
+2025-09-01T00:43:36,2025-09-01,1,0,Gehweg - Schäden,In der Nähe von Mühlhäuser Straße 215,48.831700272364,9.2117320939094
+2025-09-01T00:43:36,2025-09-01,1,0,Wilder Müll,In der Nähe von Freibergstraße 27/1,48.823102898051,9.2184764765014
+2025-09-01T00:43:36,2025-09-01,1,0,Sonstiges,Mannheimer Straße,48.810834419298,9.1959435729178
+2025-09-01T00:43:36,2025-09-01,1,0,Straße - Schäden,Salzäckerstraße,48.719762412663,9.1586497125399
+2025-09-01T00:43:36,2025-09-01,1,0,Straße - Verschmutzung,"In der Nähe von Spitalrain, Gew. 9",48.718751699576,9.1563967623468
+2025-09-01T00:43:36,2025-09-01,1,0,Straße - Verschmutzung,In der Nähe von Heidfeldbrunnen (Hummelberg (Plieningen)),48.703293830136,9.1954431860491
+2025-09-01T00:43:36,2025-09-01,1,0,Radweg - Verschmutzung,"In der Nähe von Untermaurach, Gew.",48.715608126404,9.1729074049223
+2025-09-01T00:43:36,2025-09-01,1,0,Straße - Schäden,Salzäckerstraße,48.719671476872,9.1593564085594
+2025-09-01T00:43:36,2025-09-01,1,0,Sonstiges,Gärtnerstraße,48.757183937523,9.2549886736003
+2025-09-01T00:43:36,2025-09-01,1,0,Sonstiges,Landauer Straße,48.811144920748,9.1204598486895
+2025-09-01T00:43:36,2025-09-01,1,0,Sonstiges,Neue Weinsteige,48.764358828132,9.180957347667
+2025-09-01T00:43:36,2025-09-01,1,0,Gehweg - Verschmutzung,Ehrenhalde,48.789699015687,9.1638939056766
+2025-09-01T00:43:36,2025-09-01,1,0,Kanaldeckel,Landhausstraße,48.782527438507,9.1886049721534
+2025-09-01T00:43:36,2025-09-01,1,0,Wilder Müll,In der Nähe von Altglas-Container (Erdmannhäuser Straße / Ottmarsheimer Straße),48.847063473689,9.1602579026849
+2025-09-01T00:43:36,2025-09-01,1,0,Gefahrenstelle,In der Nähe von Lenbachstraße 93,48.805061172,9.1681618634158
+2025-09-01T00:43:36,2025-09-01,1,0,Sonstiges,In der Nähe von Elsässer Straße 31,48.830226,9.1695651
+2025-09-01T00:43:36,2025-09-01,1,0,Sonstiges,"In der Nähe von Walpenreute, Gew.",48.802556457588,9.1503078793819
+2025-09-01T00:43:36,2025-09-01,1,0,Radweg - Schäden,"In der Nähe von Walpenreute, Gew.",48.802333678242,9.150234452241
+2025-09-01T00:43:36,2025-09-01,1,0,Wilder Müll,In der Nähe von Ludwigsburger Straße 270,48.84037864453,9.1763825978645
+2025-09-01T00:43:36,2025-09-01,1,0,Brunnen / Gewässer,In der Nähe von Knollstraße 3/1,48.7967766,9.1918673
+2025-09-01T00:43:36,2025-09-01,1,0,Gefahrenstelle,Leobener Straße,48.81543437757,9.1588968920636
+2025-09-01T00:43:36,2025-09-01,1,0,Brunnen / Gewässer,In der Nähe von Erwin-Häußler-Straße 10,48.823798863518,9.2408356965515
+2025-09-01T00:43:36,2025-09-01,1,0,Begrünung,"In der Nähe von Schwarzwildpark, Gew. 14",48.783546693531,9.0978976012882
+2025-09-01T00:43:36,2025-09-01,1,0,Gehweg - Verschmutzung,In der Nähe von Altenwohnanlage am Lindenbachsee (Goslarer Straße 81),48.816021152527,9.1239019225932
+2025-09-01T00:43:36,2025-09-01,1,0,Sonstiges,Höhenringweg,48.742694205348,9.2185707582336
+2025-09-01T00:43:36,2025-09-01,1,0,Wilder Müll,In der Nähe von Nordbahnhofstraße 53,48.7952259,9.1896786
+2025-09-01T00:43:36,2025-09-01,1,0,Wilder Müll,In der Nähe von Hahnemannstraße 20,48.810640469621,9.1879707561223
+2025-09-01T00:43:36,2025-09-01,1,0,Wilder Müll,Am Reichelenberg,48.769594276187,9.1867328861882
+2025-09-01T00:43:36,2025-09-01,1,0,Sonstiges,Libanonstraße,48.779447467497,9.2012253199245
+2025-09-01T00:43:36,2025-09-01,1,0,Begrünung,In der Nähe von Spielfläche (Tunzhofer-/ Türlenstraße),48.792257820056,9.1794045426264
