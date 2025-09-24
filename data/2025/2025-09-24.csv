@@ -53,3 +53,7 @@ first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,categ
 2025-09-24T11:15:20,2025-09-24,3,11,Gefahrenstelle,Aspacher Straße,48.83294226402,9.1770335630614
 2025-09-24T12:17:31,2025-09-24,3,12,Ampel,In der Nähe von Heigelinstraße 5,48.713709221515,9.1639827906083
 2025-09-24T12:17:31,2025-09-24,3,12,Straße - Schäden,In der Nähe von Heigelinstraße / Schelmenwasenstraße,48.713879933131,9.1660425432703
+2025-09-24T13:18:49,2025-09-24,3,13,Wilder Müll,Böblinger Straße,48.758216826836,9.1491670777235
+2025-09-24T13:18:49,2025-09-24,3,13,SSB Haltestelle,In der Nähe von Bebelstraße 24/1,48.775047,9.1551268
+2025-09-24T13:18:49,2025-09-24,3,13,Gehweg - Verschmutzung,Mannheimer Straße,48.810465959223,9.1957242117247
+2025-09-24T13:18:49,2025-09-24,3,13,Treppe,Krötenweg,48.803714621353,9.0906175244725
