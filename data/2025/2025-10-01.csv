@@ -41,3 +41,6 @@ first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,categ
 2025-10-01T00:39:39,2025-10-01,3,0,Straßenbeleuchtung,Vollmoellerstraße,48.726474864812,9.1113918328396
 2025-10-01T06:17:00,2025-10-01,3,6,Ampel,Altenbergstraße,48.76222249704,9.1779288545049
 2025-10-01T06:17:00,2025-10-01,3,6,Wilder Müll,In der Nähe von Taubenheimstraße 60,48.802630271238,9.2290687470425
+2025-10-01T07:15:59,2025-10-01,3,7,Wilder Müll,Kronprinzstraße,48.775837825497,9.1750506071593
+2025-10-01T07:15:59,2025-10-01,3,7,Straße - Verschmutzung,In der Nähe von Augsburger Straße 410,48.778414163562,9.2538347886969
+2025-10-01T07:15:59,2025-10-01,3,7,Sonstiges,Lehmfeldstraße,48.820153016865,9.2394371636174
