@@ -48,3 +48,7 @@ first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,categ
 2025-10-02T10:15:52,2025-10-02,4,10,Straße - Verschmutzung,In der Nähe von Stuttgarter Straße 18,48.811808585803,9.1676367030926
 2025-10-02T11:15:02,2025-10-02,4,11,Gefahrenstelle,Motorstraße,48.82554988411,9.0983003902242
 2025-10-02T11:15:02,2025-10-02,4,11,Wilder Müll,In der Nähe von Glemsgaustraße 20A,48.815589681668,9.1119286958048
+2025-10-02T12:17:28,2025-10-02,4,12,Wilder Müll,Schlosserstraße,48.768775915872,9.1750941043701
+2025-10-02T12:17:28,2025-10-02,4,12,Sonstiges,In der Nähe von Einödstraße 15,48.7523759434,9.2617799882301
+2025-10-02T12:17:28,2025-10-02,4,12,SSB Haltestelle,In der Nähe von Hausenring 9,48.8145442,9.0853877
+2025-10-02T12:17:28,2025-10-02,4,12,Sonstiges,Uhlbacher Straße,48.763089431907,9.2690071127777
