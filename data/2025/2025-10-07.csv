@@ -78,3 +78,7 @@ first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,categ
 2025-10-07T14:16:00,2025-10-07,2,14,Wilder Müll,Robert-Leicht-Straße,48.744782016265,9.1111602344256
 2025-10-07T14:16:00,2025-10-07,2,14,Sonstiges,Paprikastraße,48.740428410293,9.2317679047845
 2025-10-07T14:16:00,2025-10-07,2,14,Sonstiges,Obere Waiblinger Straße,48.807022865586,9.2331505738811
+2025-10-07T15:16:04,2025-10-07,2,15,Verkehrszeichen,Obernitzstraße,48.78994601449,9.2061686204275
+2025-10-07T15:16:04,2025-10-07,2,15,Wilder Müll,In der Nähe von Gutenbergstraße 47,48.77247020712,9.1603513986166
+2025-10-07T15:16:04,2025-10-07,2,15,Verkehrszeichen,In der Nähe von Gebelsbergstraße 19,48.763579503832,9.1582173699261
+2025-10-07T15:16:04,2025-10-07,2,15,Gefahrenstelle,In der Nähe von Lerchenstraße 9,48.7826093,9.1656317
