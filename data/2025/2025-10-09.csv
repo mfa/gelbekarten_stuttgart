@@ -64,3 +64,7 @@ first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,categ
 2025-10-09T15:28:58,2025-10-09,4,15,Ampel,Zabergäustraße,48.836699369264,9.1662003125212
 2025-10-09T16:16:38,2025-10-09,4,16,Sonstiges,In der Nähe von Königstraße 30,48.777949181381,9.1779383193291
 2025-10-09T17:15:32,2025-10-09,4,17,Sonstiges,In der Nähe von Filderstraße 61,48.763539178094,9.1687628004956
+2025-10-09T18:16:55,2025-10-09,4,18,Gehweg - Verschmutzung,Karlshofstraße,48.716380637592,9.1987712899664
+2025-10-09T18:16:55,2025-10-09,4,18,Gehweg - Verschmutzung,In der Nähe von Steckfeldstraße 77,48.716203190158,9.1985158852199
+2025-10-09T18:16:55,2025-10-09,4,18,SSB Haltestelle,In der Nähe von Wilhelmastraße 3,48.806315553339,9.2103271084114
+2025-10-09T18:16:55,2025-10-09,4,18,Sonstiges,Eberhardstraße,48.772891675741,9.1779665520424
