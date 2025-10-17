@@ -50,3 +50,7 @@ first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,categ
 2025-10-17T09:16:13,2025-10-17,5,9,Gefahrenstelle,Feldbergstraße,48.740689385375,9.1279626293123
 2025-10-17T09:16:13,2025-10-17,5,9,Gefahrenstelle,In der Nähe von Feldbergstraße 60,48.740752025117,9.1281434987315
 2025-10-17T09:16:13,2025-10-17,5,9,Poller,In der Nähe von Jurastraße 3,48.728986348335,9.1183317305423
+2025-10-17T10:16:16,2025-10-17,5,10,Gefahrenstelle,König-Karl-Straße,48.807475429621,9.222652010009
+2025-10-17T10:16:16,2025-10-17,5,10,Sonstiges,In der Nähe von Feuerbacher Weg / Am Kochenhof,48.797487957121,9.1635084944559
+2025-10-17T10:16:16,2025-10-17,5,10,Straßenbeleuchtung,Dürnauer Weg,48.725319148419,9.2008325160576
+2025-10-17T10:16:16,2025-10-17,5,10,Schlagloch,Hauptstätter Straße,48.768707749044,9.1725761945652
