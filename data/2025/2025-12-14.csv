@@ -60,3 +60,6 @@ first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,categ
 2025-12-14T14:15:50,2025-12-14,7,14,Ampel,In der Nähe von Am Weißenhof 1/1,48.799500733114,9.1752051869359
 2025-12-14T15:15:55,2025-12-14,7,15,Wilder Müll,Außerhalb Stuttgarts,48.685462105038,9.1860640540855
 2025-12-14T15:15:55,2025-12-14,7,15,Kanaldeckel,Leinenweberstraße,48.729661761053,9.149148303956
+2025-12-14T17:15:34,2025-12-14,7,17,Straßenbeleuchtung,Neuer Berg,48.783808596554,9.2760196881811
+2025-12-14T17:15:34,2025-12-14,7,17,Wilder Müll,Ulmer Straße,48.774779275663,9.2385680014899
+2025-12-14T17:15:34,2025-12-14,7,17,Wilder Müll,In der Nähe von Friedrich-E.-Vogt-Stäffele,48.765342305178,9.1647181176544
