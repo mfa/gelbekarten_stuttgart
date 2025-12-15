@@ -49,3 +49,5 @@ first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,categ
 2025-12-15T08:17:28,2025-12-15,1,8,Ampel,Böheimstraße,48.760157141809,9.1567766987894
 2025-12-15T08:17:28,2025-12-15,1,8,Gehweg - Verschmutzung,Amstetter Straße,48.75512523353,9.2584068111333
 2025-12-15T09:17:48,2025-12-15,1,9,Straße - Verschmutzung,"In der Nähe von Steigeräcker, Gew. 3",48.838349205412,9.1751754118011
+2025-12-15T11:15:56,2025-12-15,1,11,Wilder Müll,In der Nähe von Haußmannstraße 180,48.785783,9.2064695
+2025-12-15T11:15:56,2025-12-15,1,11,Verkehrszeichen,Tellstraße,48.836657706465,9.1638835102185
