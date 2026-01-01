@@ -48,3 +48,7 @@ first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,categ
 2026-01-01T12:17:47,2026-01-01,4,12,Wilder Müll,Ailenbergstraße,48.762049866419,9.2711515073383
 2026-01-01T12:17:47,2026-01-01,4,12,Gehweg - Schäden,Gustav-Siegle-Straße,48.782985035953,9.1460527572245
 2026-01-01T12:17:47,2026-01-01,4,12,Ampel,Roter Stich,48.825266618369,9.1889015443642
+2026-01-01T13:22:12,2026-01-01,4,13,Ampel,In der Nähe von Konrad-Adenauer-Straße 10,48.777776086726,9.1844075427826
+2026-01-01T13:22:12,2026-01-01,4,13,Wilder Müll,In der Nähe von Oberwiesenstraße 59,48.746215446363,9.2151464694328
+2026-01-01T13:22:12,2026-01-01,4,13,Straße - Verschmutzung,In der Nähe von Münchinger Straße,48.849792790699,9.1485293516861
+2026-01-01T13:22:12,2026-01-01,4,13,Sonstiges,"In der Nähe von Metzgerhau, Gew. 1",48.76766491243,9.1236533003432
