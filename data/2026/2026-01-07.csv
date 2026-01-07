@@ -41,3 +41,7 @@ first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,categ
 2026-01-07T00:40:03,2026-01-07,3,0,Sonstiges,Mahatma-Gandhi-Straße,48.81787680002,9.1914347772325
 2026-01-07T07:17:17,2026-01-07,3,7,Gefahrenstelle,Im Fuchsrain,48.770534479716,9.2051772966344
 2026-01-07T07:17:17,2026-01-07,3,7,SSB Haltestelle,In der Nähe von Kirchheimer Straße 12/1,48.747842399747,9.207866078514
+2026-01-07T08:17:12,2026-01-07,3,8,Sonstiges,Am Feldrand,48.737343543622,9.099991366509
+2026-01-07T08:17:12,2026-01-07,3,8,Gefahrenstelle,In der Nähe von Jörg-Zink-Platz 1,48.732496,9.1560027
+2026-01-07T08:17:12,2026-01-07,3,8,Wilder Müll,In der Nähe von Leharstraße Einkaufszentrum,48.781643137471,9.1314578799086
+2026-01-07T08:17:12,2026-01-07,3,8,Ampel,Solitudestraße,48.802780213416,9.1000805266344
