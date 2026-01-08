@@ -59,3 +59,6 @@ first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,categ
 2026-01-08T11:16:25,2026-01-08,4,11,Ampel,Böblinger Straße,48.761419717737,9.154453818996
 2026-01-08T11:16:25,2026-01-08,4,11,Ampel,Möhringer Straße,48.759236887211,9.1520523857273
 2026-01-08T11:16:25,2026-01-08,4,11,Wilder Müll,Azenbergstraße,48.788452691137,9.1633507783123
+2026-01-08T12:17:44,2026-01-08,4,12,Sonstiges,Falbenhennenstraße,48.766667603954,9.1772233077213
+2026-01-08T12:17:44,2026-01-08,4,12,Gefahrenstelle,In der Nähe von Solitudestraße 332,48.821308308339,9.119266840184
+2026-01-08T12:17:44,2026-01-08,4,12,Gehweg - Verschmutzung,In der Nähe von Rudolf-Gehring-Platz,48.808427444173,9.1589816432872
