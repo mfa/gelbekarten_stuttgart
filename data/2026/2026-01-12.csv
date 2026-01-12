@@ -65,3 +65,7 @@ first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,categ
 2026-01-12T14:17:01,2026-01-12,1,14,Gefahrenstelle,"In der Nähe von Ruhbank, Gew. 5",48.752825902103,9.1953690141166
 2026-01-12T15:17:00,2026-01-12,1,15,Gehweg - Schäden,Reinsburgstraße,48.769503804174,9.1633790649697
 2026-01-12T15:17:00,2026-01-12,1,15,Schlagloch,In der Nähe von Wiener Straße 89,48.811331240733,9.1582073973006
+2026-01-12T16:17:01,2026-01-12,1,16,Wilder Müll,Mittenfeldstraße,48.804828723281,9.0923763577924
+2026-01-12T16:17:01,2026-01-12,1,16,Gehweg - Verschmutzung,Ludwigstraße,48.775150414959,9.1653845611635
+2026-01-12T16:17:01,2026-01-12,1,16,Straße - Verschmutzung,Goslarer Straße,48.815968856394,9.1268600425764
+2026-01-12T16:17:01,2026-01-12,1,16,Verkehrszeichen,In der Nähe von Mittlerer Pfad 19,48.819735241834,9.0924811973764
