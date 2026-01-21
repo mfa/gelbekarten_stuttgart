@@ -41,3 +41,7 @@ first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,categ
 2026-01-21T00:41:55,2026-01-21,3,0,Verkehrszeichen,Böheimstraße,48.759709901139,9.1548839881915
 2026-01-21T06:17:38,2026-01-21,3,6,Schlagloch,In der Nähe von Böblinger Straße 417B,48.742688,9.1333606
 2026-01-21T07:17:41,2026-01-21,3,7,Ampel,In der Nähe von Schöttlestraße 6,48.746991391144,9.1640625848401
+2026-01-21T08:17:21,2026-01-21,3,8,Ampel,Stuttgarter Straße,48.808868563863,9.158018091306
+2026-01-21T08:17:21,2026-01-21,3,8,Wilder Müll,In der Nähe von Nordbahnhofstraße 36,48.794288650185,9.1900148455765
+2026-01-21T08:17:21,2026-01-21,3,8,Wilder Müll,In der Nähe von Rosensteinstraße 27,48.79465538581,9.1919575548376
+2026-01-21T08:17:21,2026-01-21,3,8,Gehweg - Verschmutzung,In der Nähe von Theodor-Fischer-Platz,48.765437450666,9.171861002889
