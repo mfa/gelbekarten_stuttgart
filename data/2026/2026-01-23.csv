@@ -58,3 +58,6 @@ first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,categ
 2026-01-23T09:17:41,2026-01-23,5,9,Ampel,Ulmer Straße,48.778200440477,9.2328537233133
 2026-01-23T09:17:41,2026-01-23,5,9,Wilder Müll,In der Nähe von Epplestraße 207,48.72880091225,9.166052008807
 2026-01-23T09:17:41,2026-01-23,5,9,Wilder Müll,In der Nähe von Epplestraße 6,48.726925287759,9.1651410775427
+2026-01-23T10:16:48,2026-01-23,5,10,Ampel,In der Nähe von Emilienstraße 2,48.729040729104,9.1166710216076
+2026-01-23T10:16:48,2026-01-23,5,10,Verkehrszeichen,Sprollstraße,48.736292637067,9.1800813766645
+2026-01-23T10:16:48,2026-01-23,5,10,Sonstiges,Goslarer Straße,48.8149414,9.1287202
