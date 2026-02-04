@@ -67,3 +67,7 @@ first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,categ
 2026-02-04T12:23:35,2026-02-04,3,12,Ampel,In der Nähe von Marienstraße 43,48.770307741137,9.1695300432887
 2026-02-04T13:36:11,2026-02-04,3,13,Gefahrenstelle,Kirchheimer Straße,48.740290214091,9.2201268179981
 2026-02-04T13:36:11,2026-02-04,3,13,Wilder Müll,Mirabellenstraße,48.767213126787,9.2674913607172
+2026-02-04T14:25:20,2026-02-04,3,14,Straße - Schäden,In der Nähe von Schurwaldstraße 27,48.7817122612,9.2144436464115
+2026-02-04T14:25:20,2026-02-04,3,14,Gefahrenstelle,Adalbert-Stifter-Straße,48.83823252288,9.2081519606617
+2026-02-04T14:25:20,2026-02-04,3,14,Sonstiges,Augustenstraße,48.769275471101,9.1594044394163
+2026-02-04T14:25:20,2026-02-04,3,14,Straße - Verschmutzung,Geislinger Straße,48.7754765723,9.2406809917337
