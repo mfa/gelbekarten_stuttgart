@@ -39,3 +39,7 @@ first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,categ
 2026-02-09T00:51:21,2026-02-09,1,0,Straße - Verschmutzung,Lorbeerstraße,48.740236641726,9.2331815646415
 2026-02-09T00:51:21,2026-02-09,1,0,Wilder Müll,Taläckerstraße,48.838136484679,9.1908714582097
 2026-02-09T00:51:21,2026-02-09,1,0,Gehweg - Schäden,In der Nähe von Ostendstraße 85,48.783934400956,9.2080620467128
+2026-02-09T07:34:01,2026-02-09,1,7,Wilder Müll,In der Nähe von Danneckerstraße 47,48.767971225838,9.1830401500051
+2026-02-09T07:34:01,2026-02-09,1,7,Gefahrenstelle,Rostocker Straße,48.817148583256,9.2067977923947
+2026-02-09T07:34:01,2026-02-09,1,7,Gefahrenstelle,In der Nähe von Jagststraße / Schussengasse,48.819932278148,9.2244611508444
+2026-02-09T07:34:01,2026-02-09,1,7,Sonstiges,Theoderichweg,48.80944776596,9.174336746907
