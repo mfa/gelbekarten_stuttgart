@@ -79,3 +79,6 @@ first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,categ
 2026-03-23T17:27:49,2026-03-23,1,17,Verkehrszeichen,In der Nähe von Lindenbachstraße 102,48.815258320135,9.1265166685491
 2026-03-23T17:27:49,2026-03-23,1,17,Wilder Müll,Außerhalb Stuttgarts,48.855668703699,9.2079175031096
 2026-03-23T19:28:55,2026-03-23,1,19,Wilder Müll,Bogenstraße,48.743612979194,9.1196998761782
+2026-03-23T20:22:55,2026-03-23,1,20,Gefahrenstelle,Bebelstraße,48.775225004333,9.1570822166286
+2026-03-23T20:22:55,2026-03-23,1,20,Sonstiges,In der Nähe von Probststraße / Binsdorfer Straße,48.731489323055,9.1493019954685
+2026-03-23T20:22:55,2026-03-23,1,20,Wilder Müll,In der Nähe von Elfenstraße 110,48.733696887165,9.1533003003046
