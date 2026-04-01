@@ -40,3 +40,6 @@ first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,categ
 2026-04-01T01:00:45,2026-04-01,3,1,Gefahrenstelle,Solitudestraße,48.815479382462,9.1131281406018
 2026-04-01T01:00:45,2026-04-01,3,1,Wilder Müll,In der Nähe von Schmollerstraße 99,48.829471061375,9.2314489651407
 2026-04-01T06:47:12,2026-04-01,3,6,Schlagloch,In der Nähe von Rotenwaldstraße 373,48.764219162388,9.1262802929815
+2026-04-01T07:44:00,2026-04-01,3,7,Straße - Verschmutzung,In der Nähe von Ulmer Straße 111,48.785210088534,9.2235167648951
+2026-04-01T07:44:00,2026-04-01,3,7,Sonstiges,Klinglerstraße,48.77809089643,9.1313788915544
+2026-04-01T07:44:00,2026-04-01,3,7,Wilder Müll,Karl-Pfaff-Straße,48.747583817464,9.1734560829565
