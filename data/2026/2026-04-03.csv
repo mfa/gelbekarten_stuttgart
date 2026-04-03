@@ -43,3 +43,6 @@ first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,categ
 2026-04-03T07:37:06,2026-04-03,5,7,Ampel,In der Nähe von Maybachstraße 1,48.8073668,9.1774508
 2026-04-03T08:27:59,2026-04-03,5,8,Verkehrszeichen,In der Nähe von Klopstockstraße 70,48.777854244148,9.1474028393374
 2026-04-03T08:27:59,2026-04-03,5,8,Wilder Müll,Reinsburgstraße,48.7689493784,9.1475770944025
+2026-04-03T09:29:24,2026-04-03,5,9,Wilder Müll,Gutenbergstraße,48.772664882632,9.1608986709887
+2026-04-03T09:29:24,2026-04-03,5,9,Gefahrenstelle,In der Nähe von Losäckerstraße 1,48.814488666246,9.085902505715
+2026-04-03T09:29:24,2026-04-03,5,9,Gefahrenstelle,Büsnauer Straße,48.73473548249,9.0990750033701
