@@ -85,3 +85,6 @@ first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,categ
 2026-04-27T15:45:49,2026-04-27,1,15,Straßeneinlauf - verstopft,In der Nähe von Kreuzhaldenstraße 11,48.755382654376,9.255565936536
 2026-04-27T15:45:49,2026-04-27,1,15,Verkehrszeichen,Honigwiesenstraße,48.733098586916,9.0914461973975
 2026-04-27T15:45:49,2026-04-27,1,15,Sonstiges,Strohberg,48.762187154352,9.1729673150315
+2026-04-27T16:44:22,2026-04-27,1,16,Poller,Happoldstraße,48.806202380163,9.1604747865455
+2026-04-27T16:44:22,2026-04-27,1,16,Sonstiges,Schwabstraße,48.781468346854,9.1569791858762
+2026-04-27T16:44:22,2026-04-27,1,16,Sonstiges,In der Nähe von Friedrich-Strobel-Weg,48.751092974354,9.1887962827465
