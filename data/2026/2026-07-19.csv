@@ -44,3 +44,6 @@ first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,categ
 2026-07-19T07:02:18,2026-07-19,7,7,Verkehrszeichen,In der Nähe von Sturmfederstraße,48.841843345821,9.1921006036203
 2026-07-19T07:02:18,2026-07-19,7,7,Wilder Müll,Anna-Peters-Straße,48.744972491167,9.1495472730972
 2026-07-19T07:50:34,2026-07-19,7,7,Wilder Müll,Köstlinstraße,48.806750134776,9.116349904184
+2026-07-19T08:55:31,2026-07-19,7,8,Straße - Verschmutzung,Weidenbrunnen,48.84385841125,9.2344663825825
+2026-07-19T08:55:31,2026-07-19,7,8,Gehweg - Schäden,Am Klingenbach,48.783509663096,9.2134388494318
+2026-07-19T08:55:31,2026-07-19,7,8,Sonstiges,Charlottenplatz,48.775755754179,9.1835866580531
