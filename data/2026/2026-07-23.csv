@@ -75,3 +75,7 @@ first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,categ
 2026-07-23T15:47:02,2026-07-23,4,15,Wilder Müll,In der Nähe von Vestastraße 31,48.7263359,9.1704005
 2026-07-23T16:41:18,2026-07-23,4,16,Gefahrenstelle,Neuwirtshausstraße,48.835726743787,9.1383366492875
 2026-07-23T16:41:18,2026-07-23,4,16,Wilder Müll,In der Nähe von Ulmer Straße 231,48.778266792843,9.2338740902591
+2026-07-23T17:41:33,2026-07-23,4,17,Verkehrszeichen,In der Nähe von Mühlhäuser Straße 311,48.836747725009,9.21848437937
+2026-07-23T17:41:33,2026-07-23,4,17,Gehweg - Verschmutzung,Fleiner Straße,48.833769063766,9.1880886553064
+2026-07-23T17:41:33,2026-07-23,4,17,Wilder Müll,Fleiner Straße,48.833769063766,9.1880886553064
+2026-07-23T17:41:33,2026-07-23,4,17,Gefahrenstelle,Fasanenhofstraße,48.710851252468,9.1622783284561
