@@ -47,3 +47,8 @@ first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,categ
 2026-08-23T10:16:23,2026-08-23,7,10,Straße - Verschmutzung,In der Nähe von Süßener Straße 25,48.7745317,9.2438342
 2026-08-23T11:16:09,2026-08-23,7,11,Wilder Müll,Jakobstraße,48.771320160936,9.1819486543858
 2026-08-23T12:17:09,2026-08-23,7,12,Wilder Müll,Nagelstraße,48.770873193832,9.1858121738607
+2026-08-23T13:20:39,2026-08-23,7,13,Straße - Verschmutzung,Mönchhof,48.700948235356,9.2160523386098
+2026-08-23T13:20:39,2026-08-23,7,13,Wilder Müll,In der Nähe von Gundelsheimer Straße 18,48.833241211452,9.1945913423051
+2026-08-23T13:20:39,2026-08-23,7,13,Begrünung,Kolpingstraße,48.828109574736,9.2374176754521
+2026-08-23T13:20:39,2026-08-23,7,13,Sonstiges,In der Nähe von In den Wannenäckern,48.811702650621,9.2354041668025
+2026-08-23T13:20:39,2026-08-23,7,13,Wilder Müll,In der Nähe von Winterbacher Straße 23D,48.806077507735,9.2459114855307
