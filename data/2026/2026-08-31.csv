@@ -40,3 +40,8 @@ first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,categ
 2026-08-31T01:01:00,2026-08-31,1,1,Straße - Verschmutzung,Wörishofener Straße,48.800582867207,9.2281094216551
 2026-08-31T01:01:00,2026-08-31,1,1,Straße - Verschmutzung,In der Nähe von Fasanenhofstraße 145/3,48.709690647767,9.1526557003178
 2026-08-31T04:27:36,2026-08-31,1,4,Poller,In der Nähe von Uhlbacher Straße 234,48.776120215287,9.2789395058848
+2026-08-31T06:45:03,2026-08-31,1,6,Begrünung,In der Nähe von Bubenhaldenstraße 16,48.815018887121,9.1553973507
+2026-08-31T06:45:03,2026-08-31,1,6,Gehweg - Verschmutzung,Echazstraße,48.820779140433,9.2232967248696
+2026-08-31T06:45:03,2026-08-31,1,6,Wilder Müll,Kissinger Straße,48.802171069443,9.2256108936094
+2026-08-31T06:45:03,2026-08-31,1,6,Straße - Verschmutzung,In der Nähe von Uferstraße 108,48.786461960257,9.2274870852488
+2026-08-31T06:45:03,2026-08-31,1,6,Sonstiges,Wagenburgstraße,48.78077370423,9.2091802086799
