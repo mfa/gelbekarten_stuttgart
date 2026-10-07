@@ -40,3 +40,6 @@ first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,categ
 2026-10-07T01:02:33,2026-10-07,3,1,Ampel,In der Nähe von Neue Weinsteige 28/1,48.763448584359,9.1790111666925
 2026-10-07T01:02:33,2026-10-07,3,1,Sonstiges,Vaihinger Straße,48.728681248675,9.149104609453
 2026-10-07T02:38:37,2026-10-07,3,2,Wilder Müll,Filderstraße,48.76355901447,9.1685442964542
+2026-10-07T05:26:07,2026-10-07,3,5,Verkehrszeichen,In der Nähe von Heilbronner Straße 72,48.791465966872,9.1815180718168
+2026-10-07T05:26:07,2026-10-07,3,5,Gehweg - Verschmutzung,In der Nähe von Möhringer Straße 44A,48.762526615384,9.1620594998724
+2026-10-07T05:26:07,2026-10-07,3,5,Sonstiges,Uferstraße,48.786848060611,9.2270941865173
