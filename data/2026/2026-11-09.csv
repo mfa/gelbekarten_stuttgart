@@ -42,3 +42,6 @@ first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,categ
 2026-11-09T06:30:59,2026-11-09,1,6,Gefahrenstelle,Viehwasen,48.776878136947,9.2415452011365
 2026-11-09T06:30:59,2026-11-09,1,6,Ampel,Kirchheimer Straße,48.741390980061,9.217939430656
 2026-11-09T06:30:59,2026-11-09,1,6,Straßenbeleuchtung,Wetzlarer Straße,48.812422308491,9.19851048446
+2026-11-09T07:17:10,2026-11-09,1,7,Ampel,In der Nähe von Epplestraße 205,48.729530042899,9.1671848588482
+2026-11-09T07:17:10,2026-11-09,1,7,Gehweg - Schäden,In der Nähe von Azuritweg 2,48.737501186584,9.2313020780851
+2026-11-09T07:17:10,2026-11-09,1,7,Gehweg - Verschmutzung,Kauzenhecke,48.755388168106,9.1702312478495
