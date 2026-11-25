@@ -43,3 +43,10 @@ first_seen_at_timestamp,first_seen_date,first_seen_weekday,first_seen_hour,categ
 2026-11-25T07:17:24,2026-11-25,3,7,Ampel,Scharnhauser Straße,48.702112530185,9.2140186592754
 2026-11-25T07:17:24,2026-11-25,3,7,Gehweg - Verschmutzung,Augsburger Straße,48.785913552803,9.2483817983774
 2026-11-25T07:17:24,2026-11-25,3,7,Sonstiges,In der Nähe von Marktplatz (M) 15,48.775204349229,9.1793730544398
+2026-11-25T08:19:50,2026-11-25,3,8,Sonstiges,Regenpfeiferweg,48.830095229923,9.2342113994891
+2026-11-25T08:19:50,2026-11-25,3,8,Wilder Müll,In der Nähe von Gutenbergstraße 73,48.771348912591,9.1570993363443
+2026-11-25T08:19:50,2026-11-25,3,8,Straße - Verschmutzung,In der Nähe von Gutenbergstraße 94,48.771130718334,9.1563058242446
+2026-11-25T08:19:50,2026-11-25,3,8,Verkehrszeichen,In der Nähe von Eulerstraße 12A,48.71637467107,9.1194017721906
+2026-11-25T08:19:50,2026-11-25,3,8,Gehweg - Verschmutzung,Asangstraße,48.767761163337,9.2716449548476
+2026-11-25T08:19:50,2026-11-25,3,8,Sonstiges,In der Nähe von Schwerzstraße 1,48.716890730631,9.2149557550081
+2026-11-25T08:19:50,2026-11-25,3,8,Gefahrenstelle,In der Nähe von Möhringer Straße 8,48.763411300429,9.1649377854129
